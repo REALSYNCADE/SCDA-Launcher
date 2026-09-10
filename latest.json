@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.10-x1",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.09.10-x1/scda-ce-exp-2026.09.10-x1.scdaupd",
-  "sha256": "1d1c687d566b0372273bb083e3baa7e20da3684fa61db02c9b73f48e486c31c5",
-  "size": 173908602,
-  "notes": "Proximity voice chat: everyone near you is heard where they are standing, and both teams hear each other. Mumble is included -- you only type a name.",
-  "released": "2026-09-10T15:58:23Z",
+  "version": "2026.09.11-x1",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.09.11-x1/scda-ce-exp-2026.09.11-x1.scdaupd",
+  "sha256": "a47bc2708d787b9d6e8faf687ae009d5ba257a7e46cbe7793ede6e4ad819e694",
+  "size": 173920387,
+  "notes": "Developer build refresh: the sticky cam can be picked off the gadget wheel again, jammers thrown by the plain launcher are silent, the blank jammer icon is fixed, the seventh gadget reads Distractor, and the infinite gadget charges are gone. The silent-mine cave is installed but not yet confirmed in a live match -- take the developer build out before joining a normal one.",
+  "released": "2026-09-10T22:48:49Z",
   "addons": [
     {
       "code": "NGHTW",
