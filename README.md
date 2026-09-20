@@ -10,9 +10,6 @@ you the game if you do not have it, keeps it up to date, and starts it.
 
 You only download it once. Keep it anywhere you like.
 
-(`ScdaPatcher.exe` was its old name. That link still works and serves the same
-file.)
-
 ## Using it
 
 1. Run `ScdaLauncher.exe`. It finds your Community Edition install by itself.
@@ -82,27 +79,6 @@ SHA-256 of every file is published in `checksums.txt` on each release.
 * **Going back always works.** The first time a file is changed, your original
   is copied to `%LOCALAPPDATA%\SCDA-Launcher\`. That copy is what **Repair /
   restore stock** puts back.
-
-## Command line
-
-`ScdaLauncher-cli.exe` is the same program with a console:
-
-```
-ScdaLauncher-cli.exe --cli install-game --install "D:\Games\SCDA Community Edition"
-ScdaLauncher-cli.exe --cli check
-ScdaLauncher-cli.exe --cli update
-ScdaLauncher-cli.exe --cli play
-ScdaLauncher-cli.exe --cli verify
-ScdaLauncher-cli.exe --cli remove --addon KIN01
-ScdaLauncher-cli.exe --cli restore
-ScdaLauncher-cli.exe --cli update --install "D:\Games\SCDA Community Edition"
-
-ScdaLauncher-cli.exe --cli check  --track experimental
-ScdaLauncher-cli.exe --cli update --track experimental
-ScdaLauncher-cli.exe --cli remove-track --track experimental
-```
-
-Without `--track` everything is Community Edition.
 
 ## Trouble
 
