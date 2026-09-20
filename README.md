@@ -20,7 +20,7 @@ You only download it once. Keep it anywhere you like.
 
    | version | what you get |
    |---|---|
-   | **Community Edition** | the standard game: stock 1.1 plus **Kinshasa** as its own map. This is the default. Kinshasa is inside the full download, and an older install receives it on the first PLAY. |
+   | **Community Edition** | the standard game: stock 1.1 plus **Kinshasa** and **Secret Base** as their own maps. This is the default. Both are inside the full download, and an older install receives them on the first PLAY. |
    | **Experimental Build** | Community Edition plus whatever is being tested right now. Expect breakage. |
 
 3. Press **PLAY**. It updates that version if anything is new — Windows may ask
@@ -44,7 +44,7 @@ and the launcher refuses rather than half-patch a running game.
 
 ## The versions, in one sentence each
 
-* **Community Edition** is what everybody plays. Kinshasa is in it.
+* **Community Edition** is what everybody plays. Kinshasa and Secret Base are in it.
 * **Experimental Build** is the playground. Every experimental map is its own
   extra entry in the map list, so the finished version is never replaced. A game
   change from this version can stop you joining a normal match; the launcher
