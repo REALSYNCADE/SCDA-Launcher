@@ -1,0 +1,17 @@
+{
+  "track": "main",
+  "version": "2026.09.20-2",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/v2026.09.20-2/scda-ce-2026.09.20-2.scdaupd",
+  "sha256": "ff0c041019995e040ddfc5955b02c8411cc3a6fe6a23f42edc655ef7d41db44a",
+  "size": 26124865,
+  "notes": "Kinshasa is part of the standard game: this brings it to an install made before 2026-09-20",
+  "released": "2026-09-20T17:42:05Z",
+  "addons": [
+    {
+      "code": "KIN01",
+      "title": "Kinshasa",
+      "kind": "map"
+    }
+  ],
+  "min_patcher": 2
+}
