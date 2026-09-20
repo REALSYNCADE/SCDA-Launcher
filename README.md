@@ -1,91 +1,60 @@
-# SCDA Updater
+# SCDA Launcher
 
-Keeps **Splinter Cell: Double Agent — Community Edition** up to date: new maps,
-and changes to the game itself.
-
-New maps arrive as their **own entry in the map list**. Nothing the game came
-with is replaced: if you get "Blackwing Enhanced", your normal Blackwing is
-still there, untouched, and the new one sits next to it.
-
-Game changes — a fix or an improvement to the game itself — do replace a file.
-When one does, **your original is kept**, and removing the change puts it back
-exactly as it was.
-
-## Right now
-
-The **Main build** is deliberately empty — the base game stays stock. Everything
-currently being handed out is on the **Experimental build** tab:
-
-| | |
-|---|---|
-| **Night Waves** | Dawn Waves at night — an extra vent, dimmed outdoor light and capped fill lights. It is its own map: your stock Dawn Waves stays exactly where it is, and Night Waves is added at the end of the map list. |
-| **Boss House Night** | Boss House abandoned at night. The whole map is darker and colder, a third of the lamps are smashed or flickering in their own broken art, and the garden has grown back through it — 320 ivy patches where the original has 79. Your stock Boss House stays exactly where it is; this is a separate entry at the end of the map list. |
-
-So: download the updater, pick **Experimental Build** under VERSION, and press
-**PLAY**. It checks for updates, installs what is missing and starts the game.
-
-Choosing **Community Edition** instead gives you the plain community build — the
-experimental maps are switched off, not deleted, so you can swap back and forth
-whenever you like.
-
-(There is no third option on a normal install. **Developer** only appears on a
-machine that has hand-built maps belonging to no download, and all it does is
-switch those on — there is nothing in it to receive.)
+One program for **Splinter Cell: Double Agent — Community Edition**: it gets
+you the game if you do not have it, keeps it up to date, and starts it.
 
 ## Download
 
-**[⬇ ScdaPatcher.exe](https://github.com/REALSYNCADE/SCDA-Updater/releases/latest/download/ScdaPatcher.exe)**
+**[⬇ ScdaLauncher.exe](https://github.com/REALSYNCADE/SCDA-Updater/releases/latest/download/ScdaLauncher.exe)**
 — that link always serves the newest build.
 
-You only download it once. It updates the game, not itself, so keep it anywhere
-you like and run it whenever you want to check for new maps.
+You only download it once. Keep it anywhere you like.
+
+(`ScdaPatcher.exe` was its old name. That link still works and serves the same
+file.)
 
 ## Using it
 
-1. Run `ScdaPatcher.exe`. It finds your Community Edition install by itself; if
-   it does not, open **Settings** and point it at the folder that contains
-   `System\SCDA_Online.exe`.
-2. Under **VERSION**, pick **Community Edition** or **Experimental Build**.
+1. Run `ScdaLauncher.exe`. It finds your Community Edition install by itself.
+   **No game on this PC?** Press **PLAY** anyway — it offers to download the
+   whole game (about 860 MB, 1.7 GB once unpacked) into a folder you pick, then
+   carries on.
+2. Under **VERSION**, pick one:
+
+   | version | what you get |
+   |---|---|
+   | **Community Edition** | the standard game: stock 1.1 plus **Kinshasa** as its own map. This is the default. Kinshasa is inside the full download, and an older install receives it on the first PLAY. |
+   | **Experimental Build** | Community Edition plus whatever is being tested right now. Expect breakage. |
+
 3. Press **PLAY**. It updates that version if anything is new — Windows may ask
-   for administrator rights, because the game lives under `Program Files` — and
+   for administrator rights if the game lives under `Program Files` — and
    then starts the game.
-4. The new maps are in the map list under their own names.
+4. New maps are in the map list under their own names. Nothing the game came
+   with is replaced: your stock maps stay exactly where they were.
 
 **Close the game first.** The engine keeps its map files locked while it runs,
-and the updater will refuse rather than half-patch a running game.
+and the launcher refuses rather than half-patch a running game.
 
-### The other buttons
+### Settings
 
 | button | what it does |
 |---|---|
-| **Start the main game** / **Start experimental** | launches SCDA. There is one game, so both start it — the button first tells you what that tab has installed, and warns you if a *game change* from the other tab is active, because those are loaded however you start |
-| **Check my game** | verifies your base game against the files Community Edition shipped, and tells you which maps can and cannot be installed, without changing anything |
-| **Remove one** | takes one thing back out. An added map is deleted; a game change is undone and your original file is put back |
-| **Remove everything from this tab** | undoes everything *that tab* installed, and leaves the other tab alone |
-| **Restore stock** | puts back every file the updater has ever changed and removes every map it added, from both tabs. This is the clean uninstall |
+| **Game folder / Browse** | point the launcher at a game it did not find by itself (the folder with `System\SCDA_Online.exe`) |
+| **Check my game** | verifies your files against the ones Community Edition shipped and tells you what can and cannot be installed, without changing anything |
+| **Repair / restore stock** | puts back every file the launcher has ever changed and removes every map it added. This is the clean uninstall |
+| **Uninstall an add-on** | takes one thing back out. An added map is deleted; a game change is undone and your original file is put back |
+| **Download the game** | downloads a fresh copy of the game into a new folder, even if you already have one |
 
-## The two tabs
+## The versions, in one sentence each
 
-| tab | what is on it |
-|---|---|
-| **Main build** | the finished maps. This is what you want. |
-| **Experimental build** | works in progress — new maps and new ideas being tested, often broken on purpose |
+* **Community Edition** is what everybody plays. Kinshasa is in it.
+* **Experimental Build** is the playground. Every experimental map is its own
+  extra entry in the map list, so the finished version is never replaced. A game
+  change from this version can stop you joining a normal match; the launcher
+  tells you when one is active, and **Repair / restore stock** takes it all out.
 
-They are separate. Ignoring the second tab costs you nothing, and installing
-from it never changes or removes anything the first one gave you.
-
-If you do want to help test:
-
-* Every experimental map is **its own extra entry** in the map list. The
-  finished version stays exactly where it was, so you can play both and compare.
-* Expect crashes, missing textures and maps that do not load. That is what the
-  tab is for.
-* **Remove everything from this tab** puts it all back — added maps deleted,
-  replaced files restored — and the main build is untouched.
-* The updater asks you to confirm once, the first time you install from it.
-
-Play online with people on the main build and you may not be able to join a
-match that uses an experimental map — take them out first if in doubt.
+Switching versions never downloads anything and never deletes anything: it is
+two small edits to text files, and the launcher keeps every original.
 
 ### Windows SmartScreen
 
@@ -95,59 +64,60 @@ SHA-256 of every file is published in `checksums.txt` on each release.
 
 ## What it actually does to your game
 
-* **A new map only adds.** Four new files plus one line added to each of two
-  config files. No map, package or setting the game shipped with is overwritten.
-* **A game change is always reversible.** It does replace a file — that is what
-  it is for — but your original is copied aside before anything is written, and
-  **Remove one** or **Restore stock** puts it back byte for byte. The updater
-  names the file it is about to replace before it does it.
+* **The full download is checked twice.** The image is refused unless its size
+  and SHA-256 match what is published, and the game exe it unpacks is checked
+  again afterwards. A broken download resumes where it stopped.
+* **A new map only adds.** A few new files plus one line in each of two config
+  files. No map, package or setting the game shipped with is overwritten.
+* **A game change is always reversible.** Your original is copied aside before
+  anything is written, and **Uninstall an add-on** or **Repair / restore stock**
+  puts it back byte for byte.
 * **Your settings are not touched.** `PlayerProfilePC.ini` and `Default.ini` are
   never part of a release — keybinds, mouse sensitivity, video and gameplay
   options all stay exactly as you have them.
 * **If you added your own maps, they survive.** The map list and the map-name
-  file are *edited*, not replaced, so anything else in them stays where it is.
-* **Your base game is checked first.** If a file a map is built from has been
-  modified, that map is held back and named, and the rest still install.
-* **Maps are patches, not copies of the game.** An enhanced Blackwing is a 16 KB
-  download, because the patch is the difference against a map you already own.
+  file are edited, not replaced.
 * **Nothing is written until every file has been rebuilt and checked** against
-  its published SHA-256. If one file cannot be built, the update stops before
-  touching anything — a half-patched game is not a state it can reach.
+  its published SHA-256. A half-patched game is not a state it can reach.
 * **Going back always works.** The first time a file is changed, your original
-  is copied to `%LOCALAPPDATA%\SCDA-CE-Patcher\`. That copy is what **Restore
-  stock** puts back.
+  is copied to `%LOCALAPPDATA%\SCDA-Launcher\`. That copy is what **Repair /
+  restore stock** puts back.
 
 ## Command line
 
-`ScdaPatcher-cli.exe` is the same program with a console:
+`ScdaLauncher-cli.exe` is the same program with a console:
 
 ```
-ScdaPatcher-cli.exe --cli check
-ScdaPatcher-cli.exe --cli update
-ScdaPatcher-cli.exe --cli verify
-ScdaPatcher-cli.exe --cli remove --addon BLKGE
-ScdaPatcher-cli.exe --cli restore
-ScdaPatcher-cli.exe --cli update --install "D:\Games\SCDA Community Edition"
+ScdaLauncher-cli.exe --cli install-game --install "D:\Games\SCDA Community Edition"
+ScdaLauncher-cli.exe --cli check
+ScdaLauncher-cli.exe --cli update
+ScdaLauncher-cli.exe --cli play
+ScdaLauncher-cli.exe --cli verify
+ScdaLauncher-cli.exe --cli remove --addon KIN01
+ScdaLauncher-cli.exe --cli restore
+ScdaLauncher-cli.exe --cli update --install "D:\Games\SCDA Community Edition"
 
-ScdaPatcher-cli.exe --cli check  --track experimental
-ScdaPatcher-cli.exe --cli update --track experimental
-ScdaPatcher-cli.exe --cli remove-track --track experimental
+ScdaLauncher-cli.exe --cli check  --track experimental
+ScdaLauncher-cli.exe --cli update --track experimental
+ScdaLauncher-cli.exe --cli remove-track --track experimental
 ```
 
-Without `--track` everything is the main build.
+Without `--track` everything is Community Edition.
 
 ## Trouble
 
 | what you see | what it means |
 |---|---|
-| *"needs your original `<file>`, which is missing or already modified"* | a file that map is built from has been changed by something else. **Restore stock**, or reinstall Community Edition, then update again |
+| *"the download did not match its published hash"* | the file arrived damaged. Run it again — it downloads afresh |
+| *"the folder is not empty"* | the game is unpacked into a new folder only. Pick an empty one, or a new name |
+| *"the game needs the PhysX system software"* | run the installer it names, inside the game folder under `Installers\PhysX`, then press PLAY again |
+| *"needs your original `<file>`, which is missing or already modified"* | a file that map is built from has been changed by something else. **Repair / restore stock**, or download the game again, then update |
 | *"map ID N is already used by `<CODE>`"* | another custom map on your install claims the same slot ID. Remove that one first, or ask for a rebuild on a free ID |
 | *"no write access"* | run it as administrator (right-click → Run as administrator) |
 | *"SCDA is running"* | close the game |
-| *"could not reach the update channel"* | no internet, or GitHub is unreachable. On the Experimental tab it can also mean there is no experimental build published right now |
-| *"menu name slot NN already belongs to …"* | two maps want the same name slot. Remove the one it names, or ask for a rebuild |
+| *"could not reach the update channel"* | no internet, or GitHub is unreachable. On Experimental Build it can also mean there is no experimental build published right now |
 
 ## Requirements
 
-An existing SCDA Community Edition install. This adds maps to CE — it is not an
-installer for the game itself and it does not distribute the base game.
+Windows, about 2.6 GB of free disk space for a fresh install, and the PhysX
+system software (the installer ships inside the game folder).
