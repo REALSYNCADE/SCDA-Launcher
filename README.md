@@ -5,7 +5,7 @@ you the game if you do not have it, keeps it up to date, and starts it.
 
 ## Download
 
-**[⬇ ScdaLauncher.exe](https://github.com/REALSYNCADE/SCDA-Updater/releases/latest/download/ScdaLauncher.exe)**
+**[ ScdaLauncher.exe](https://github.com/REALSYNCADE/SCDA-Updater/releases/latest/download/ScdaLauncher.exe)**
 — that link always serves the newest build.
 
 You only download it once. Keep it anywhere you like.
