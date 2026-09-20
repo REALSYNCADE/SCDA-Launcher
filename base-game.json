@@ -1,7 +1,7 @@
 {
   "name": "Community Edition",
   "version": "1.1-kinshasa-secretbase",
-  "url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/base-1.1-kinshasa-secretbase/scda-ce-base-1.1-kinshasa-secretbase.zip",
+  "url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/base-1.1-kinshasa-secretbase/scda-ce-base-1.1-kinshasa-secretbase.zip",
   "image": "scda-ce-base-1.1-kinshasa-secretbase.zip",
   "size": 938117962,
   "sha256": "9fc31c43ed02ddfa7b764c28ff7e7b994ee97c9b48cba048ca6641306060d138",
