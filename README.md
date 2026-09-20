@@ -1,11 +1,12 @@
 # SCDA Launcher
 
-One program for **Splinter Cell: Double Agent — Community Edition**: it gets
-you the game if you do not have it, keeps it up to date, and starts it.
+One program for **Splinter Cell: Double Agent** online — the **Community
+Edition** and the vanilla **SCDA (heartbeat)** game: it gets you the game if
+you do not have it, keeps it up to date, and starts it.
 
 ## Download
 
-**[ ScdaLauncher.exe](https://github.com/REALSYNCADE/SCDA-Updater/releases/latest/download/ScdaLauncher.exe)**
+**[⬇ ScdaLauncher.exe](https://github.com/REALSYNCADE/SCDA-Launcher/releases/latest/download/ScdaLauncher.exe)**
 — that link always serves the newest build.
 
 You only download it once. Keep it anywhere you like.
@@ -14,13 +15,14 @@ You only download it once. Keep it anywhere you like.
 
 1. Run `ScdaLauncher.exe`. It finds your Community Edition install by itself.
    **No game on this PC?** Press **PLAY** anyway — it offers to download the
-   whole game (about 860 MB, 1.7 GB once unpacked) into a folder you pick, then
+   whole game (about 900 MB, 1.8 GB once unpacked) into a folder you pick, then
    carries on.
 2. Under **VERSION**, pick one:
 
    | version | what you get |
    |---|---|
    | **Community Edition** | the standard game: stock 1.1 plus **Kinshasa** and **Secret Base** as their own maps. This is the default. Both are inside the full download, and an older install receives them on the first PLAY. |
+   | **SCDA (heartbeat)** | the vanilla heartbeat game. It is a separate full game: the first PLAY downloads it (about 1.2 GB, 2.2 GB once unpacked) into a folder of its own, every later PLAY just starts it. Your Community Edition is not touched. |
    | **Experimental Build** | Community Edition plus whatever is being tested right now. Expect breakage. |
 
 3. Press **PLAY**. It updates that version if anything is new — Windows may ask
@@ -45,13 +47,18 @@ and the launcher refuses rather than half-patch a running game.
 ## The versions, in one sentence each
 
 * **Community Edition** is what everybody plays. Kinshasa and Secret Base are in it.
+* **SCDA (heartbeat)** is the vanilla heartbeat game, exactly as it was handed
+  over: its own folder, its own exe, nothing added and nothing ever patched in.
+  You can have it next to Community Edition and switch with the VERSION box.
 * **Experimental Build** is the playground. Every experimental map is its own
   extra entry in the map list, so the finished version is never replaced. A game
   change from this version can stop you joining a normal match; the launcher
   tells you when one is active, and **Repair / restore stock** takes it all out.
 
-Switching versions never downloads anything and never deletes anything: it is
-two small edits to text files, and the launcher keeps every original.
+Switching between Community Edition and Experimental never downloads anything
+and never deletes anything: it is two small edits to text files, and the
+launcher keeps every original. SCDA (heartbeat) is a different folder
+altogether, so switching to it changes nothing in either game.
 
 ### Windows SmartScreen
 
@@ -86,6 +93,7 @@ SHA-256 of every file is published in `checksums.txt` on each release.
 |---|---|
 | *"the download did not match its published hash"* | the file arrived damaged. Run it again — it downloads afresh |
 | *"the folder is not empty"* | the game is unpacked into a new folder only. Pick an empty one, or a new name |
+| *"the game needs the old DirectX 9 runtime"* (SCDA (heartbeat)) | run `DXSETUP.exe` inside that game's folder under `Installers\DirectX`, then press PLAY again |
 | *"the game needs the PhysX system software"* | run the installer it names, inside the game folder under `Installers\PhysX`, then press PLAY again |
 | *"needs your original `<file>`, which is missing or already modified"* | a file that map is built from has been changed by something else. **Repair / restore stock**, or download the game again, then update |
 | *"map ID N is already used by `<CODE>`"* | another custom map on your install claims the same slot ID. Remove that one first, or ask for a rebuild on a free ID |
@@ -95,5 +103,6 @@ SHA-256 of every file is published in `checksums.txt` on each release.
 
 ## Requirements
 
-Windows, about 2.6 GB of free disk space for a fresh install, and the PhysX
-system software (the installer ships inside the game folder).
+Windows, about 2.7 GB of free disk space for a fresh Community Edition install
+(3.4 GB for SCDA (heartbeat)), and the PhysX system software (the installer
+ships inside the Community Edition folder).
