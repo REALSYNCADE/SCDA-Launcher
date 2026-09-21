@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.11-x1",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.11-x1/scda-ce-exp-2026.09.11-x1.scdaupd",
-  "sha256": "a47bc2708d787b9d6e8faf687ae009d5ba257a7e46cbe7793ede6e4ad819e694",
-  "size": 173920387,
-  "notes": "Developer build refresh: the sticky cam can be picked off the gadget wheel again, jammers thrown by the plain launcher are silent, the blank jammer icon is fixed, the seventh gadget reads Distractor, and the infinite gadget charges are gone. The silent-mine cave is installed but not yet confirmed in a live match -- take the developer build out before joining a normal one.",
-  "released": "2026-09-10T22:48:49Z",
+  "version": "2026.09.21-x1",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.21-x1/scda-ce-exp-2026.09.21-x1.scdaupd",
+  "sha256": "9e5eb33909cae3f496958cfc204b753964c8bcbcc2985c2990cf1949827d226a",
+  "size": 31385996,
+  "notes": "Kinshasa and Secret Base now come only from the standard game: the old ported Kinshasa, Kinshasa 1.0, the old Secret Base and their package set are gone from this channel. Night Waves, Boss House Night, Greys House, the Venom skin, the developer build and proximity voice chat are unchanged -- take the developer build out before joining a normal match.",
+  "released": "2026-09-21T06:53:02Z",
   "addons": [
     {
       "code": "NGHTW",
@@ -26,26 +26,6 @@
       "code": "BOSG9",
       "title": "Greys House 1v1 / 2v2",
       "kind": "map"
-    },
-    {
-      "code": "KIN01",
-      "title": "Kinshasa",
-      "kind": "map"
-    },
-    {
-      "code": "KIN10",
-      "title": "Kinshasa 1.0",
-      "kind": "map"
-    },
-    {
-      "code": "NSA01",
-      "title": "Secret Base",
-      "kind": "map"
-    },
-    {
-      "code": "PORTPK",
-      "title": "Kinshasa / Secret Base package set",
-      "kind": "files"
     },
     {
       "code": "DEVBLD",
