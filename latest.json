@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.22-x1",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.22-x1/scda-ce-exp-2026.09.22-x1.scdaupd",
-  "sha256": "ca0578310ee6f953ec9fda72b174ddccd287dad1791d7470f870c61262ca5b0b",
-  "size": 31368411,
-  "notes": "Bigger smoke grenade and a named smoke mine: the thrown smoke grenade's cloud is 10% bigger, the smoke mine keeps the stock cloud, arms 2 s after it is placed and is named Smoke Mine in the wheel; the Distractor only beeps. Night Waves, Boss House Night, Greys House, the Venom skin and proximity voice chat are unchanged -- take the developer build out before joining a normal match.",
-  "released": "2026-09-22T15:02:12Z",
+  "version": "2026.09.22-x2",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.22-x2/scda-ce-exp-2026.09.22-x2.scdaupd",
+  "sha256": "d0d1ff63b4cdfb3c7374e190d51766bd7d3d8c371441fd3dc1ca0bbc8649638b",
+  "size": 31370804,
+  "notes": "Spawn protection for spies by GamBox: a spy takes no damage for a set time after spawning (per map, from System/SC4Specific.ini), counts down in chat and ends early the moment they hack or use a gadget. The bigger smoke, the smoke mine, Night Waves, Boss House Night, Greys House, the Venom skin and proximity voice chat are unchanged -- take the developer build out before joining a normal match.",
+  "released": "2026-09-22T15:50:51Z",
   "addons": [
     {
       "code": "NGHTW",
