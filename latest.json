@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.21-x1",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.21-x1/scda-ce-exp-2026.09.21-x1.scdaupd",
-  "sha256": "9e5eb33909cae3f496958cfc204b753964c8bcbcc2985c2990cf1949827d226a",
-  "size": 31385996,
-  "notes": "Kinshasa and Secret Base now come only from the standard game: the old ported Kinshasa, Kinshasa 1.0, the old Secret Base and their package set are gone from this channel. Night Waves, Boss House Night, Greys House, the Venom skin, the developer build and proximity voice chat are unchanged -- take the developer build out before joining a normal match.",
-  "released": "2026-09-21T06:53:02Z",
+  "version": "2026.09.22-x1",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.22-x1/scda-ce-exp-2026.09.22-x1.scdaupd",
+  "sha256": "ca0578310ee6f953ec9fda72b174ddccd287dad1791d7470f870c61262ca5b0b",
+  "size": 31368411,
+  "notes": "Bigger smoke grenade and a named smoke mine: the thrown smoke grenade's cloud is 10% bigger, the smoke mine keeps the stock cloud, arms 2 s after it is placed and is named Smoke Mine in the wheel; the Distractor only beeps. Night Waves, Boss House Night, Greys House, the Venom skin and proximity voice chat are unchanged -- take the developer build out before joining a normal match.",
+  "released": "2026-09-22T15:02:12Z",
   "addons": [
     {
       "code": "NGHTW",
