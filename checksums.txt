@@ -1,4 +1,4 @@
-24b29458758c66b6f791adbe7eb8499a9eb1a699eab7f27d74e13e3e136edc1c  ScdaLauncher.exe
+9700df823af0087ef9abddb01236e5df4fadbdd20c1f8e63631bc5494e62fcce  ScdaLauncher.exe
 6f249d9d6c3359881b1c04f0f4bf94a3b6b36362335fc7c908bbaa812ef0b987  scda-ce-2026.09.20-3.scdaupd
 9e5eb33909cae3f496958cfc204b753964c8bcbcc2985c2990cf1949827d226a  scda-ce-exp-2026.09.21-x1.scdaupd
 9fc31c43ed02ddfa7b764c28ff7e7b994ee97c9b48cba048ca6641306060d138  scda-ce-base-1.1-kinshasa-secretbase.zip
