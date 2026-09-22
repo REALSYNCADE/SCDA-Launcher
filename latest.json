@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.22-x3",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.22-x3/scda-ce-exp-2026.09.22-x3.scdaupd",
-  "sha256": "9aac5029fe92a4a47da7e036b32068bf009b153fecd58d1ad38516b510c951cd",
-  "size": 31370773,
-  "notes": "No instant-kill radius on frag grenades and drones: their explosions no longer kill outright inside 250 units, they only do their normal damage. GamBox's spawn protection, the bigger smoke, the smoke mine, Night Waves, Boss House Night, Greys House, the Venom skin and proximity voice chat are unchanged -- take the developer build out before joining a normal match.",
-  "released": "2026-09-22T15:55:41Z",
+  "version": "2026.09.22-x4",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.22-x4/scda-ce-exp-2026.09.22-x4.scdaupd",
+  "sha256": "24e99089f091ad0039593b5e0a6868f9dba5a186ec0b7013471de56ef9d9ad0c",
+  "size": 31661784,
+  "notes": "Proximity voice chat: Mumble now carries the Visual C++ runtime it needs, so it actually opens. The launcher asks before installing it.",
+  "released": "2026-09-22T22:05:32Z",
   "addons": [
     {
       "code": "NGHTW",
