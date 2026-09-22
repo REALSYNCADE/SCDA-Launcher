@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.22-x2",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.22-x2/scda-ce-exp-2026.09.22-x2.scdaupd",
-  "sha256": "d0d1ff63b4cdfb3c7374e190d51766bd7d3d8c371441fd3dc1ca0bbc8649638b",
-  "size": 31370804,
-  "notes": "Spawn protection for spies by GamBox: a spy takes no damage for a set time after spawning (per map, from System/SC4Specific.ini), counts down in chat and ends early the moment they hack or use a gadget. The bigger smoke, the smoke mine, Night Waves, Boss House Night, Greys House, the Venom skin and proximity voice chat are unchanged -- take the developer build out before joining a normal match.",
-  "released": "2026-09-22T15:50:51Z",
+  "version": "2026.09.22-x3",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.22-x3/scda-ce-exp-2026.09.22-x3.scdaupd",
+  "sha256": "9aac5029fe92a4a47da7e036b32068bf009b153fecd58d1ad38516b510c951cd",
+  "size": 31370773,
+  "notes": "No instant-kill radius on frag grenades and drones: their explosions no longer kill outright inside 250 units, they only do their normal damage. GamBox's spawn protection, the bigger smoke, the smoke mine, Night Waves, Boss House Night, Greys House, the Venom skin and proximity voice chat are unchanged -- take the developer build out before joining a normal match.",
+  "released": "2026-09-22T15:55:41Z",
   "addons": [
     {
       "code": "NGHTW",
