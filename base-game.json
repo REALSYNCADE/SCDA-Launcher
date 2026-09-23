@@ -16,6 +16,6 @@
   "notes": "Splinter Cell: Double Agent -- Community Edition 1.1 plus Kinshasa and Secret Base, the standard game since 2026-09-20. Every stock file is the one the 1.1 installer wrote; Kinshasa and Secret Base are the operator's own builds, byte for byte.",
   "files_manifest": "scda-ce-base-1.1-kinshasa-secretbase.files.json",
   "files_manifest_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/base-1.1-kinshasa-secretbase/scda-ce-base-1.1-kinshasa-secretbase.files.json",
-  "files_manifest_sha256": "ce3cac2f56a144e0b8f7bd652de159554a1b4c28ea8f22061939518d6a46da3e",
-  "files_manifest_size": 155546
+  "files_manifest_sha256": "df548252418de2a39743336e1cafb2a869bfbb4095940ad118e064e6bf652558",
+  "files_manifest_size": 151493
 }

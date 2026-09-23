@@ -17,6 +17,6 @@
   "notes": "Splinter Cell: Double Agent -- the vanilla heartbeat game, every file of the operator's SCDA-Online archive, unchanged. A separate game in its own folder; the launcher never patches it.",
   "files_manifest": "scda-heartbeat-1.0.files.json",
   "files_manifest_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/heartbeat-1.0/scda-heartbeat-1.0.files.json",
-  "files_manifest_sha256": "0b372a84665f9019cb8bde5f171e6339cbf38cc63412931571badab22da1f8e9",
-  "files_manifest_size": 288121
+  "files_manifest_sha256": "957a254b329f459bcc777b6dd31156ee43dfc6451f02a24496f05a8c86fd58d7",
+  "files_manifest_size": 284068
 }
