@@ -1,21 +1,22 @@
 {
   "name": "Community Edition",
-  "version": "1.1-kinshasa-secretbase",
-  "url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/base-1.1-kinshasa-secretbase/scda-ce-base-1.1-kinshasa-secretbase.zip",
-  "image": "scda-ce-base-1.1-kinshasa-secretbase.zip",
-  "size": 938117962,
-  "sha256": "9fc31c43ed02ddfa7b764c28ff7e7b994ee97c9b48cba048ca6641306060d138",
-  "files": 794,
-  "unpacked": 1908533212,
+  "game": "ce",
+  "version": "1.1-kinshasa-secretbase-lobby",
+  "url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/base-1.1-kinshasa-secretbase-lobby/scda-ce-base-1.1-kinshasa-secretbase-lobby.zip",
+  "image": "scda-ce-base-1.1-kinshasa-secretbase-lobby.zip",
+  "size": 942613981,
+  "sha256": "03e872481cb54f4634ad38d2e6886bb40cbc01155202e1ec8e26fd7a8293b34c",
+  "files": 798,
+  "unpacked": 1932777024,
   "exe_sha256": "ee80d2355f7fcc8cbfbd8e7bcb52cab26a9e2947ff00ef830feb2bc8289b54a5",
   "markers": [
     "System/SCDA_Online.exe",
     "Packages/MapPaths.ini",
     "Packages/_Common/MapsPC/BLKG1_VS.sds"
   ],
-  "notes": "Splinter Cell: Double Agent -- Community Edition 1.1 plus Kinshasa and Secret Base, the standard game since 2026-09-20. Every stock file is the one the 1.1 installer wrote; Kinshasa and Secret Base are the operator's own builds, byte for byte.",
-  "files_manifest": "scda-ce-base-1.1-kinshasa-secretbase.files.json",
-  "files_manifest_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/base-1.1-kinshasa-secretbase/scda-ce-base-1.1-kinshasa-secretbase.files.json",
-  "files_manifest_sha256": "df548252418de2a39743336e1cafb2a869bfbb4095940ad118e064e6bf652558",
-  "files_manifest_size": 151493
+  "notes": "Splinter Cell: Double Agent -- Community Edition 1.1 plus Kinshasa and Secret Base, the standard game since 2026-09-20. Every stock file is the one the 1.1 installer wrote; Kinshasa and Secret Base are the operator's own builds, byte for byte, with their own lobby models and Kinshasa's own loading screen since 2026-09-24 (main 2026.09.24-1).",
+  "files_manifest": "scda-ce-base-1.1-kinshasa-secretbase-lobby.files.json",
+  "files_manifest_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/base-1.1-kinshasa-secretbase-lobby/scda-ce-base-1.1-kinshasa-secretbase-lobby.files.json",
+  "files_manifest_sha256": "188f8c9534a84a30f6b57a6c55ca81d966bd93c2a1918ef425f6e3708c318a72",
+  "files_manifest_size": 152080
 }
