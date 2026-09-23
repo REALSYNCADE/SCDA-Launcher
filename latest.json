@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.23-x1",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.23-x1/scda-ce-exp-2026.09.23-x1.scdaupd",
-  "sha256": "5f199ca251459108faac2e2bb32052789f7d84b1ba5e9257fe019063f44957d2",
-  "size": 31661767,
-  "notes": "Health needles heal at their normal speed again: the tick rate goes back from 5.075 s to 0.075 s. They keep 5 charges.",
-  "released": "2026-09-23T03:33:10Z",
+  "version": "2026.09.23-x2",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.23-x2/scda-ce-exp-2026.09.23-x2.scdaupd",
+  "sha256": "ec33f97ae945a7b45bc169bf8cfc29679c50e7473f9c18c013694d566ddeb91b",
+  "size": 31680268,
+  "notes": "The sticky cam's gas blur wears off: a gassed merc's vision clears after 5 seconds, and dying no longer carries the blur into the next life. The slow is unchanged.",
+  "released": "2026-09-23T19:17:01Z",
   "addons": [
     {
       "code": "NGHTW",
