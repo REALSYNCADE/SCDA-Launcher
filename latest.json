@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.23-x2",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.23-x2/scda-ce-exp-2026.09.23-x2.scdaupd",
-  "sha256": "ec33f97ae945a7b45bc169bf8cfc29679c50e7473f9c18c013694d566ddeb91b",
-  "size": 31680268,
-  "notes": "The sticky cam's gas blur wears off: a gassed merc's vision clears after 5 seconds, and dying no longer carries the blur into the next life. The slow is unchanged.",
-  "released": "2026-09-23T19:17:01Z",
+  "version": "2026.09.24-x1",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x1/scda-ce-exp-2026.09.24-x1.scdaupd",
+  "sha256": "8910077ce1e2478576ba336cb20b742348bd3441f5457d3b626be8ee80c6de38",
+  "size": 92660912,
+  "notes": "Spy skins: Venom and Spider-Man are real skins of their own, a new 7th row Spy - Classic wears the stock suit, the six-skin limit is gone, the lobby's Skins button opens straight onto the skins view, and a suit picked in the lobby counts for the next match. Kinshasa and Secret Base show their own spinning models in the map select and the lobby instead of Blackwing's, and Kinshasa gets its own loading screen (needs launcher 3.10, which installs itself when the launcher opens).",
+  "released": "2026-09-23T22:31:19Z",
   "addons": [
     {
       "code": "NGHTW",
@@ -19,7 +19,7 @@
     },
     {
       "code": "VENOM",
-      "title": "Venom Spy skin",
+      "title": "Stock spy suit sheet",
       "kind": "files"
     },
     {
@@ -36,7 +36,12 @@
       "code": "PROXVC",
       "title": "Proximity voice chat",
       "kind": "files"
+    },
+    {
+      "code": "LOBBY",
+      "title": "Kinshasa and Secret Base lobby models",
+      "kind": "files"
     }
   ],
-  "min_patcher": 2
+  "min_patcher": 3
 }
