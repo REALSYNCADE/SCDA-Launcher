@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x4",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x4/scda-ce-exp-2026.09.24-x4.scdaupd",
-  "sha256": "9a1f04b054f3e41127b5041fe908aed73287a2b7ce98187f605f65e5f92a2533",
-  "size": 95257795,
-  "notes": "New: Spy row 7 Goku (rebuilt, clean chest and arms) and Female Spy row 9 Lara. Also in this build: the tactical skins (Breacher, Viper, Ghost, Sandstorm, Metro Police, Special Forces, SWAT, FBI HRT), spy row 8 Cape and the in-lobby skin switch. Everyone in a match needs this build to see the same skins. Credits: This work is based on \"Goku super saiyan\" (https://sketchfab.com/3d-models/goku-super-saiyan-cb8e20c9f82148dcabc0c7663d98d2ca) by #3D $Resource$ (https://sketchfab.com/lopuh22721) licensed under CC-BY-4.0. This work is based on \"Lara CP Outfit\" (https://sketchfab.com/3d-models/lara-cp-outfit-df65683499d74f7c930ea9c20190194f) by SupaRioAmateur (https://sketchfab.com/suparioamateur) licensed under CC-BY-NC-SA-4.0; the modified outfit is shared under the same licence, not for commercial use.",
-  "released": "2026-09-24T11:19:53Z",
+  "version": "2026.09.24-x5",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x5/scda-ce-exp-2026.09.24-x5.scdaupd",
+  "sha256": "aae64e1c6ae90fb1929077ba529bb717c280d5ec1fa83209dcfded218e9b41fd",
+  "size": 98198307,
+  "notes": "New skins: Spy row 7 Goku (rebuilt, clean chest and arms) and Female Spy row 9 Lara, plus the tactical skins (Breacher, Viper, Ghost, Sandstorm, Metro Police, Special Forces, SWAT, FBI HRT), spy row 8 Cape and the in-lobby skin switch. Spawn protection fix (GamBox): another player finishing a file no longer ends your spawn protection. Smoke mine: a mine nobody trips expires after 45 s without smoke. Everyone in a match needs this build to see the same skins. Credits: This work is based on 'Goku super saiyan' (https://sketchfab.com/3d-models/goku-super-saiyan-cb8e20c9f82148dcabc0c7663d98d2ca) by #3D Resource (https://sketchfab.com/lopuh22721) licensed under CC-BY-4.0. This work is based on 'Lara CP Outfit' (https://sketchfab.com/3d-models/lara-cp-outfit-df65683499d74f7c930ea9c20190194f) by SupaRioAmateur (https://sketchfab.com/suparioamateur) licensed under CC-BY-NC-SA-4.0; the modified outfit is shared under the same licence, not for commercial use.",
+  "released": "2026-09-24T11:30:17Z",
   "addons": [
     {
       "code": "NGHTW",
@@ -38,5 +38,5 @@
       "kind": "files"
     }
   ],
-  "min_patcher": 2
+  "min_patcher": 3
 }
