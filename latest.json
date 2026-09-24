@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.09.24-7",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.24-7/scda-ce-2026.09.24-7.scdaupd",
-  "sha256": "4e8f18d908a2596a55e2e27d3c1450189fc2ea9cdaadcb317d68ecdcf340b715",
-  "size": 56174583,
-  "notes": "Launcher 3.14: an add-on can now bring its own key bind (the experimental coop move on N); your other binds and settings are left as they are. The game is unchanged from 2026.09.24-6.",
-  "released": "2026-09-24T16:13:49Z",
+  "version": "2026.09.24-8",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.24-8/scda-ce-2026.09.24-8.scdaupd",
+  "sha256": "e9360a8d4b8c0b3ad7c12e64fb0edb68411ce158db44d31c3f1149a4de015c43",
+  "size": 56174598,
+  "notes": "Launcher 3.15: add-on key binds now reach the profile the game actually reads (ProgramData Ubisoft SplinterCell4 Save), so the experimental coop key N works. The game is unchanged from 2026.09.24-7.",
+  "released": "2026-09-24T21:23:06Z",
   "addons": [
     {
       "code": "KIN01",
