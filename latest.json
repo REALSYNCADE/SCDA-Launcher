@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x10",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x10/scda-ce-exp-2026.09.24-x10.scdaupd",
-  "sha256": "3208d118323cca6c520141d49227d80c35cb9d0e1a2f88761e9c830b32914ad0",
-  "size": 98053271,
-  "notes": "Test: the old Chaos Theory coop hoist, on the host's N key. To bind it, the host copies the FPS line in System\\PlayerProfilePC.ini and changes ActionName to CoopMove, Command to Console CoopMove and both keys to IK_N. One spy hangs on a ledge, the other stands below; the host presses N (hoist pose), then N again (climb). Everything else as x9. Everyone in a match needs this build.",
-  "released": "2026-09-24T15:58:39Z",
+  "version": "2026.09.24-x11",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x11/scda-ce-exp-2026.09.24-x11.scdaupd",
+  "sha256": "03d1091a85da64f17d131de8c90929dc821a33ab764626c6e56d00438a199fae",
+  "size": 98053343,
+  "notes": "The coop hoist from x10 is now bound to N automatically (launcher 3.14 adds the key; it updates itself). One spy hangs on a ledge, the other stands below; the host presses N (hoist pose), then N again (climb). Everything else as x10. Everyone in a match needs this build.",
+  "released": "2026-09-24T16:12:47Z",
   "addons": [
     {
       "code": "NGHTW",
