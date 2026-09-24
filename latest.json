@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x12",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x12/scda-ce-exp-2026.09.24-x12.scdaupd",
-  "sha256": "800528676af13d6a710ee89626c2c946ba8b6c04bcf15568c98077fb0017e984",
-  "size": 98053808,
-  "notes": "Coop hoist on N now works for every spy, host or client. One spy hangs on a ledge, the other stands below; press N once (hoist pose), then N again (climb). Either player can press it. Everything else as x11. Everyone in a match needs this build.",
-  "released": "2026-09-24T16:45:51Z",
+  "version": "2026.09.24-x13",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x13/scda-ce-exp-2026.09.24-x13.scdaupd",
+  "sha256": "6501cdcc7071cb400218039c8f4491abda0279462094b77147dc7e912c28bf79",
+  "size": 98054190,
+  "notes": "Coop moves: the boost (one spy crouches as a step, the other jumps off) and the ledge hoist. Both spies within 400 units. Boost: the step presses N, then the jumper presses N. Hoist: one hangs on a ledge, N readies the pull, N again pulls. No crash on death any more. If N does nothing, the console commands CoopKey (anyone) and CoopMove (host) do the same. Everyone in a match needs this build.",
+  "released": "2026-09-24T17:27:07Z",
   "addons": [
     {
       "code": "NGHTW",
