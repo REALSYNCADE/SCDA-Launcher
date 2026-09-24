@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.09.24-6",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.24-6/scda-ce-2026.09.24-6.scdaupd",
-  "sha256": "075f3d2809a56e81513d688d2acdf5cdd9c019e7335ea2d7d1652c52e30e6c61",
-  "size": 56174752,
-  "notes": "Spawn protection for spies: no damage for 5 s after each spawn, longer on the eight stock maps (14-23 s), ended early by hacking or using a gadget, with a countdown on screen. Frag grenades and the drone no longer deal full damage within 2.5 m of the blast. The smoke grenade buff and the Smoke Mine are unchanged. Everyone in a match needs this build.",
-  "released": "2026-09-24T14:54:38Z",
+  "version": "2026.09.24-7",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.24-7/scda-ce-2026.09.24-7.scdaupd",
+  "sha256": "4e8f18d908a2596a55e2e27d3c1450189fc2ea9cdaadcb317d68ecdcf340b715",
+  "size": 56174583,
+  "notes": "Launcher 3.14: an add-on can now bring its own key bind (the experimental coop move on N); your other binds and settings are left as they are. The game is unchanged from 2026.09.24-6.",
+  "released": "2026-09-24T16:13:49Z",
   "addons": [
     {
       "code": "KIN01",
