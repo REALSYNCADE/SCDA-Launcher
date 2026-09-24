@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x3",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x3/scda-ce-exp-2026.09.24-x3.scdaupd",
-  "sha256": "ff99ac7ebd1127b5f72c94b905e7872c7e55809522c1a8fd96735f78dc50c2f9",
-  "size": 81411952,
-  "notes": "New skins with real gear: spy Breacher (SWAT vest + helmet, red lenses), female Viper / Ghost / Sandstorm, mercs Metro Police / Special Forces / SWAT / FBI HRT. Spy row 8: Cape. Row 7 Classic no longer breaks the round. Venom and Spider-Man no longer swap suits in the same match. Everyone in a match needs this build to see the same skins.",
-  "released": "2026-09-24T08:07:45Z",
+  "version": "2026.09.24-x4",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x4/scda-ce-exp-2026.09.24-x4.scdaupd",
+  "sha256": "cbe56896fe0f48976129930a44d5fdf92128f2038de6eb1a7ff5185dc79805f0",
+  "size": 81411827,
+  "notes": "Spawn protection fix (GamBox): another player finishing a file no longer ends your spawn protection. Everything else is x3: new skins with real gear, spy row 8 Cape, the row 7 Classic fix. Everyone in a match needs this build.",
+  "released": "2026-09-24T10:31:50Z",
   "addons": [
     {
       "code": "NGHTW",
