@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.09.24-3",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.24-3/scda-ce-2026.09.24-3.scdaupd",
-  "sha256": "d296b8dd49eb50725c8ec632cd4059797f47668a298f2d393b009403fef74f2c",
-  "size": 56171854,
-  "notes": "Smoke grenades: the cloud is 10% bigger, and so is the area that counts as smoke. New: the Smoke Mine in the spy's jammer slot (3 charges) - a silent trap that pops a smoke cloud when a merc walks within 1.5 m of it, armed 2 s after it lands; untripped, it disappears after 45 s. Everyone in a match needs this build.",
-  "released": "2026-09-24T11:32:37Z",
+  "version": "2026.09.24-4",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.24-4/scda-ce-2026.09.24-4.scdaupd",
+  "sha256": "1298027d2a50aa4f5ed47f52db5b77ba0b9ff983940bddba04f7bf91c52bde99",
+  "size": 56171927,
+  "notes": "Fix: the Smoke Mine now shows its icon in the gadget wheel and the HUD. Smoke grenades: the cloud is 10% bigger, and so is the area that counts as smoke. The Smoke Mine in the spy's jammer slot (3 charges) is a silent trap that pops a smoke cloud when a merc walks within 1.5 m of it, armed 2 s after it lands; untripped, it disappears after 45 s. Everyone in a match needs this build.",
+  "released": "2026-09-24T12:46:02Z",
   "addons": [
     {
       "code": "KIN01",
