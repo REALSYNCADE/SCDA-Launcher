@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x8",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x8/scda-ce-exp-2026.09.24-x8.scdaupd",
-  "sha256": "c72cd295dab255c3fbc0e0f5c6c50f0e423c1769fc7b444c41d7935b87d95be3",
-  "size": 98092220,
-  "notes": "Fixes: the killer (e.g. a bot in a new merc skin) should show in the kill cam again; Goku's arms keep their shape when he hacks or climbs. Everything else as x7. Everyone in a match needs this build. Credits: This work is based on 'Goku super saiyan' (https://sketchfab.com/3d-models/goku-super-saiyan-cb8e20c9f82148dcabc0c7663d98d2ca) by #3D Resource (https://sketchfab.com/lopuh22721) licensed under CC-BY-4.0. This work is based on 'Lara CP Outfit' (https://sketchfab.com/3d-models/lara-cp-outfit-df65683499d74f7c930ea9c20190194f) by SupaRioAmateur (https://sketchfab.com/suparioamateur) licensed under CC-BY-NC-SA-4.0; the modified outfit is shared under the same licence, not for commercial use.",
-  "released": "2026-09-24T12:30:32Z",
+  "version": "2026.09.24-x9",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x9/scda-ce-exp-2026.09.24-x9.scdaupd",
+  "sha256": "15516cb5f8d56b8da364fee2bf26c88bb1cf6777588658b00506c282daae14a9",
+  "size": 98052764,
+  "notes": "Spawn protection now lasts 5 s by default (was 1 s); per-map times unchanged. Everything else as x8: Fixes: the killer (e.g. a bot in a new merc skin) should show in the kill cam again; Goku's arms keep their shape when he hacks or climbs. Everyone in a match needs this build. Credits: This work is based on 'Goku super saiyan' (https://sketchfab.com/3d-models/goku-super-saiyan-cb8e20c9f82148dcabc0c7663d98d2ca) by #3D Resource (https://sketchfab.com/lopuh22721) licensed under CC-BY-4.0. This work is based on 'Lara CP Outfit' (https://sketchfab.com/3d-models/lara-cp-outfit-df65683499d74f7c930ea9c20190194f) by SupaRioAmateur (https://sketchfab.com/suparioamateur) licensed under CC-BY-NC-SA-4.0; the modified outfit is shared under the same licence, not for commercial use.",
+  "released": "2026-09-24T12:36:55Z",
   "addons": [
     {
       "code": "NGHTW",
