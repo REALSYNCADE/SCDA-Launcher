@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x2",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x2/scda-ce-exp-2026.09.24-x2.scdaupd",
-  "sha256": "0ccad4a8b5367ea5bfe82c6d3322ae465a19635f0ef483f29fe992695558d2f9",
-  "size": 82548277,
-  "notes": "The sticky cam's gas slow wears off 3 s after you leave the cloud, instead of 15 s. Everything else is as in 2026.09.24-x1; the Kinshasa and Secret Base lobby models now come with Community Edition itself.",
-  "released": "2026-09-23T23:57:32Z",
+  "version": "2026.09.24-x3",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x3/scda-ce-exp-2026.09.24-x3.scdaupd",
+  "sha256": "ff99ac7ebd1127b5f72c94b905e7872c7e55809522c1a8fd96735f78dc50c2f9",
+  "size": 81411952,
+  "notes": "New skins with real gear: spy Breacher (SWAT vest + helmet, red lenses), female Viper / Ghost / Sandstorm, mercs Metro Police / Special Forces / SWAT / FBI HRT. Spy row 8: Cape. Row 7 Classic no longer breaks the round. Venom and Spider-Man no longer swap suits in the same match. Everyone in a match needs this build to see the same skins.",
+  "released": "2026-09-24T08:07:45Z",
   "addons": [
     {
       "code": "NGHTW",
