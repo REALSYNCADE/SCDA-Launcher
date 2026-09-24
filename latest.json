@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x9",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x9/scda-ce-exp-2026.09.24-x9.scdaupd",
-  "sha256": "15516cb5f8d56b8da364fee2bf26c88bb1cf6777588658b00506c282daae14a9",
-  "size": 98052764,
-  "notes": "Spawn protection now lasts 5 s by default (was 1 s); per-map times unchanged. Everything else as x8: Fixes: the killer (e.g. a bot in a new merc skin) should show in the kill cam again; Goku's arms keep their shape when he hacks or climbs. Everyone in a match needs this build. Credits: This work is based on 'Goku super saiyan' (https://sketchfab.com/3d-models/goku-super-saiyan-cb8e20c9f82148dcabc0c7663d98d2ca) by #3D Resource (https://sketchfab.com/lopuh22721) licensed under CC-BY-4.0. This work is based on 'Lara CP Outfit' (https://sketchfab.com/3d-models/lara-cp-outfit-df65683499d74f7c930ea9c20190194f) by SupaRioAmateur (https://sketchfab.com/suparioamateur) licensed under CC-BY-NC-SA-4.0; the modified outfit is shared under the same licence, not for commercial use.",
-  "released": "2026-09-24T12:36:55Z",
+  "version": "2026.09.24-x10",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x10/scda-ce-exp-2026.09.24-x10.scdaupd",
+  "sha256": "3208d118323cca6c520141d49227d80c35cb9d0e1a2f88761e9c830b32914ad0",
+  "size": 98053271,
+  "notes": "Test: the old Chaos Theory coop hoist, on the host's N key. To bind it, the host copies the FPS line in System\\PlayerProfilePC.ini and changes ActionName to CoopMove, Command to Console CoopMove and both keys to IK_N. One spy hangs on a ledge, the other stands below; the host presses N (hoist pose), then N again (climb). Everything else as x9. Everyone in a match needs this build.",
+  "released": "2026-09-24T15:58:39Z",
   "addons": [
     {
       "code": "NGHTW",
