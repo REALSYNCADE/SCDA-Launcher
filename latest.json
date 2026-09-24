@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.09.24-5",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.24-5/scda-ce-2026.09.24-5.scdaupd",
-  "sha256": "c6921b3e7d3bf7eacfaf8fbbc322cfc57388d29a88958007f1dee794cfcff5ca",
-  "size": 56172133,
-  "notes": "Fix: the Smoke Mine now also trips on a sprinting merc, it trips when a merc comes within 2 m of it (was 1.5 m), and walls, floors and level geometry block it, so a merc behind a wall no longer sets it off. Smoke grenades: the cloud is 10% bigger, and so is the area that counts as smoke. The Smoke Mine in the spy's jammer slot (3 charges) is a silent trap, armed 2 s after it lands; untripped, it disappears after 45 s. Everyone in a match needs this build.",
-  "released": "2026-09-24T13:44:17Z",
+  "version": "2026.09.24-6",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.24-6/scda-ce-2026.09.24-6.scdaupd",
+  "sha256": "075f3d2809a56e81513d688d2acdf5cdd9c019e7335ea2d7d1652c52e30e6c61",
+  "size": 56174752,
+  "notes": "Spawn protection for spies: no damage for 5 s after each spawn, longer on the eight stock maps (14-23 s), ended early by hacking or using a gadget, with a countdown on screen. Frag grenades and the drone no longer deal full damage within 2.5 m of the blast. The smoke grenade buff and the Smoke Mine are unchanged. Everyone in a match needs this build.",
+  "released": "2026-09-24T14:54:38Z",
   "addons": [
     {
       "code": "KIN01",
@@ -19,7 +19,7 @@
     },
     {
       "code": "SMOKE",
-      "title": "Smoke grenade buff and smoke mines",
+      "title": "Smoke mines, spawn protection and frag blast",
       "kind": "files"
     }
   ],
