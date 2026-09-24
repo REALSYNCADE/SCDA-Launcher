@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x15",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x15/scda-ce-exp-2026.09.24-x15.scdaupd",
-  "sha256": "04b93e244dd8c96a41de8a3cc7cac44cc95df11db3422e15b618c1543a6c5586",
-  "size": 98534493,
-  "notes": "Coop moves: N now works for every spy (host and clients). Boost: the step presses N to kneel, then N again to throw the partner up (or the partner presses N to jump). Hoist: N readies the hanging spy, N again pulls. Both spies within 400 units. This build also replaces Engine.u. Everyone in a match needs this build.",
-  "released": "2026-09-24T18:04:39Z",
+  "version": "2026.09.24-x16",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x16/scda-ce-exp-2026.09.24-x16.scdaupd",
+  "sha256": "7fb306f02f5d1bad08cfc8c07121d98ab2cc5ee53631e1fd9c1dfa9ca4662d58",
+  "size": 98539069,
+  "notes": "Coop moves: N is now a normal key (it also shows as Coop Move in the key menu). The boost no longer needs perfect positioning of the kneeling spy. Typed Fall still works as before. Everyone in a match needs this build.",
+  "released": "2026-09-24T20:14:11Z",
   "addons": [
     {
       "code": "NGHTW",
