@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x11",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x11/scda-ce-exp-2026.09.24-x11.scdaupd",
-  "sha256": "03d1091a85da64f17d131de8c90929dc821a33ab764626c6e56d00438a199fae",
-  "size": 98053343,
-  "notes": "The coop hoist from x10 is now bound to N automatically (launcher 3.14 adds the key; it updates itself). One spy hangs on a ledge, the other stands below; the host presses N (hoist pose), then N again (climb). Everything else as x10. Everyone in a match needs this build.",
-  "released": "2026-09-24T16:12:47Z",
+  "version": "2026.09.24-x12",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x12/scda-ce-exp-2026.09.24-x12.scdaupd",
+  "sha256": "800528676af13d6a710ee89626c2c946ba8b6c04bcf15568c98077fb0017e984",
+  "size": 98053808,
+  "notes": "Coop hoist on N now works for every spy, host or client. One spy hangs on a ledge, the other stands below; press N once (hoist pose), then N again (climb). Either player can press it. Everything else as x11. Everyone in a match needs this build.",
+  "released": "2026-09-24T16:45:51Z",
   "addons": [
     {
       "code": "NGHTW",
