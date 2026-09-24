@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x14",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x14/scda-ce-exp-2026.09.24-x14.scdaupd",
-  "sha256": "162ca98c16b139dcbc921b5b04584917d3238fd09e5e0eb23c2bdb89537cf50d",
-  "size": 98053916,
-  "notes": "Mumble no longer starts with the experimental build (proximity voice is off for now). Everything else as x13. Everyone in a match needs this build.",
-  "released": "2026-09-24T17:33:18Z",
+  "version": "2026.09.24-x15",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x15/scda-ce-exp-2026.09.24-x15.scdaupd",
+  "sha256": "04b93e244dd8c96a41de8a3cc7cac44cc95df11db3422e15b618c1543a6c5586",
+  "size": 98534493,
+  "notes": "Coop moves: N now works for every spy (host and clients). Boost: the step presses N to kneel, then N again to throw the partner up (or the partner presses N to jump). Hoist: N readies the hanging spy, N again pulls. Both spies within 400 units. This build also replaces Engine.u. Everyone in a match needs this build.",
+  "released": "2026-09-24T18:04:39Z",
   "addons": [
     {
       "code": "NGHTW",
