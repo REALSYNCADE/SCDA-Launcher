@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x17",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x17/scda-ce-exp-2026.09.24-x17.scdaupd",
-  "sha256": "6898c629c9e43a56bddaaa1b17aa26b95b1fefe82cfb47d288e6363951b4be3f",
-  "size": 98539386,
-  "notes": "Coop moves: the client can now kneel and hang as well (its own game plays the pose). N moved into an existing key slot (the old NoLight debug key), because added key rows are ignored by the game. Typed Fall still works. Everyone in a match needs this build.",
-  "released": "2026-09-24T20:45:17Z",
+  "version": "2026.09.24-x18",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x18/scda-ce-exp-2026.09.24-x18.scdaupd",
+  "sha256": "6e1e8b90d15fe0ef652b8e5b692ded9df920b31e545a897f5a91b1e69c5aaecb",
+  "size": 98539402,
+  "notes": "Coop moves: a client can now prime too (kneel as the step, or ready the pull while hanging) - the host tells that player's game to play the move. Typed Fall works for everyone. Everyone in a match needs this build.",
+  "released": "2026-09-24T20:59:33Z",
   "addons": [
     {
       "code": "NGHTW",
