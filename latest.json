@@ -2,10 +2,10 @@
   "track": "experimental",
   "version": "2026.09.25-x22",
   "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.25-x22/scda-ce-exp-2026.09.25-x22.scdaupd",
-  "sha256": "4ded807116bae099e2623b694b047e143b5f7ee58b14bf76ecfdf6f8f80a289c",
-  "size": 113249212,
-  "notes": "Club House (Chaos Theory's Club E) for testing",
-  "released": "2026-09-25T12:44:17Z",
+  "sha256": "6cee8240e6e0565c3e16e792664a080b048780f6bdc8a1976bf2f988858d765b",
+  "size": 99366052,
+  "notes": "Coop moves: the spy who primes now only offers the move - the partner has to press N himself to jump off the kneeling spy or to climb up to the hanging spy. Everything else as x21. Everyone in a match needs this build.",
+  "released": "2026-09-25T12:52:32Z",
   "addons": [
     {
       "code": "NGHTW",
@@ -40,16 +40,6 @@
     {
       "code": "PROXVC",
       "title": "Proximity voice chat",
-      "kind": "files"
-    },
-    {
-      "code": "CLUBE",
-      "title": "Club House",
-      "kind": "map"
-    },
-    {
-      "code": "CLUBEX",
-      "title": "Club House -- sound banks, steam vents and zone names",
       "kind": "files"
     }
   ],
