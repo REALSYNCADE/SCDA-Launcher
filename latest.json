@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.09.25-3",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.25-3/scda-ce-2026.09.25-3.scdaupd",
-  "sha256": "6344fa1c3822900d0f7957d2d8dffeae62e0ec36469fd3b6b50e0061f0c5b82e",
-  "size": 56178839,
-  "notes": "Kinshasa: footsteps and gadgets are now heard through doorways instead of straight through walls, so a sound in another room is quieter and comes from the doorway.",
-  "released": "2026-09-25T12:46:33Z",
+  "version": "2026.09.25-4",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.25-4/scda-ce-2026.09.25-4.scdaupd",
+  "sha256": "6366bca70cb6a61a0b4613782382dcd157382a8ff26ea28f6e32b8397c05dd18",
+  "size": 56178733,
+  "notes": "Smoke mines: spies now carry 4 mines instead of 3.",
+  "released": "2026-09-25T13:54:02Z",
   "addons": [
     {
       "code": "KIN01",
