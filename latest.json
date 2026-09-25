@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.25-x23",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.25-x23/scda-ce-exp-2026.09.25-x23.scdaupd",
-  "sha256": "b8db8c21cba52c679b82164b2c7a5bd27ef8c8ff95a5b2cbf0ae1ba10373b5ce",
-  "size": 113249337,
-  "notes": "Club House lifts now carry players (door-carry engine patch); Club House is back in the map list",
-  "released": "2026-09-25T13:07:08Z",
+  "version": "2026.09.25-x24",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.25-x24/scda-ce-exp-2026.09.25-x24.scdaupd",
+  "sha256": "2916aa592eefb97bb79559dcdeae26b45e660c57760bb767e1858d6b69be1770",
+  "size": 113278143,
+  "notes": "Club House, Night Waves, Boss House Night and Greys House get names of their own that no map of yours can take (needs launcher 3.17); old Kinshasa 1.0 leftovers are cleaned up",
+  "released": "2026-09-25T14:26:00Z",
   "addons": [
     {
       "code": "NGHTW",
@@ -51,7 +51,13 @@
       "code": "CLUBEX",
       "title": "Club House -- sound banks, steam vents and zone names",
       "kind": "files"
+    },
+    {
+      "code": "MAPKEY",
+      "title": "Experimental map names",
+      "kind": "files"
     }
   ],
-  "min_patcher": 3
+  "min_patcher": 3,
+  "min_launcher": "3.17"
 }
