@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.09.25-1",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.25-1/scda-ce-2026.09.25-1.scdaupd",
-  "sha256": "2f9bae6f5040e362526902e53426533d5403570c34ed5766ea1cef78c7a7d2cb",
-  "size": 56174853,
-  "notes": "Mercs can jump again: Jump is back on the Merc Controls page, on Space by default. The game files are unchanged from 2026.09.24-8.",
-  "released": "2026-09-25T09:53:41Z",
+  "version": "2026.09.25-2",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.25-2/scda-ce-2026.09.25-2.scdaupd",
+  "sha256": "4e74747005dd87b60e1e97829f42f5a7a0ae2d20b4de4e777b02d2cfe1733dc6",
+  "size": 56174982,
+  "notes": "Launcher 3.16: key binds also reach the profile copy Windows keeps in the VirtualStore folder (the one the game reads on some PCs), and the merc jump key now stays in your profile for good. The game is unchanged from 2026.09.25-1.",
+  "released": "2026-09-25T12:37:03Z",
   "addons": [
     {
       "code": "KIN01",
