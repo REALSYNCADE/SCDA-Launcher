@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.24-x18",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x18/scda-ce-exp-2026.09.24-x18.scdaupd",
-  "sha256": "6e1e8b90d15fe0ef652b8e5b692ded9df920b31e545a897f5a91b1e69c5aaecb",
-  "size": 98539402,
-  "notes": "Coop moves: a client can now prime too (kneel as the step, or ready the pull while hanging) - the host tells that player's game to play the move. Typed Fall works for everyone. Everyone in a match needs this build.",
-  "released": "2026-09-24T20:59:33Z",
+  "version": "2026.09.24-x19",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.24-x19/scda-ce-exp-2026.09.24-x19.scdaupd",
+  "sha256": "93994b6e7887968951da2fc28e2a3a079ddced44310266a191bc357c7f1118e6",
+  "size": 98539227,
+  "notes": "The coop move key N is now a Spy control (Spy Controls page), not a common control. The stray NoLight entry is put back. Nothing else changed from x18. Everyone in a match needs this build.",
+  "released": "2026-09-25T08:10:43Z",
   "addons": [
     {
       "code": "NGHTW",
