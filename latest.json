@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.09.25-4",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.25-4/scda-ce-2026.09.25-4.scdaupd",
-  "sha256": "6366bca70cb6a61a0b4613782382dcd157382a8ff26ea28f6e32b8397c05dd18",
-  "size": 56178733,
-  "notes": "Smoke mines: spies now carry 4 mines instead of 3.",
-  "released": "2026-09-25T13:54:02Z",
+  "version": "2026.09.25-5",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.25-5/scda-ce-2026.09.25-5.scdaupd",
+  "sha256": "eb4a165e2019487c3617971e32e8d8a4a8c24ea432c2e6040cf9b0cf42f1afc6",
+  "size": 56178866,
+  "notes": "Launcher 3.17: the experimental maps get menu names of their own that no map of yours can take, and old Kinshasa 1.0 leftovers are cleaned up. The game is unchanged from 2026.09.25-4.",
+  "released": "2026-09-25T14:10:04Z",
   "addons": [
     {
       "code": "KIN01",
