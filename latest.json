@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.25-x24",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.25-x24/scda-ce-exp-2026.09.25-x24.scdaupd",
-  "sha256": "2916aa592eefb97bb79559dcdeae26b45e660c57760bb767e1858d6b69be1770",
-  "size": 113278143,
-  "notes": "Club House, Night Waves, Boss House Night and Greys House get names of their own that no map of yours can take (needs launcher 3.17); old Kinshasa 1.0 leftovers are cleaned up",
-  "released": "2026-09-25T14:26:00Z",
+  "version": "2026.09.25-x25",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.25-x25/scda-ce-exp-2026.09.25-x25.scdaupd",
+  "sha256": "9d38c06ae988dad6300e38152689810a36b0ac048c16972bdd1a429ab7af795d",
+  "size": 113279047,
+  "notes": "Coop boost: the kneel is now offered only where it makes sense - in front of a ledge about 512 uu (the Chaos Theory boost height) or 320 uu (fake ceilings) above your feet, give or take 16 uu - and the kneeling spy steps up to the wall first. Everyone in a match needs this build.",
+  "released": "2026-09-25T17:45:47Z",
   "addons": [
     {
       "code": "NGHTW",
