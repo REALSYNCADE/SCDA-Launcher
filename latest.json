@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.09.25-2",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.25-2/scda-ce-2026.09.25-2.scdaupd",
-  "sha256": "4e74747005dd87b60e1e97829f42f5a7a0ae2d20b4de4e777b02d2cfe1733dc6",
-  "size": 56174982,
-  "notes": "Launcher 3.16: key binds also reach the profile copy Windows keeps in the VirtualStore folder (the one the game reads on some PCs), and the merc jump key now stays in your profile for good. The game is unchanged from 2026.09.25-1.",
-  "released": "2026-09-25T12:37:03Z",
+  "version": "2026.09.25-3",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.25-3/scda-ce-2026.09.25-3.scdaupd",
+  "sha256": "6344fa1c3822900d0f7957d2d8dffeae62e0ec36469fd3b6b50e0061f0c5b82e",
+  "size": 56178839,
+  "notes": "Kinshasa: footsteps and gadgets are now heard through doorways instead of straight through walls, so a sound in another room is quieter and comes from the doorway.",
+  "released": "2026-09-25T12:46:33Z",
   "addons": [
     {
       "code": "KIN01",
