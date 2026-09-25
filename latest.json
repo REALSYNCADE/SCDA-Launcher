@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.25-x21",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.25-x21/scda-ce-exp-2026.09.25-x21.scdaupd",
-  "sha256": "41b063466d053860a8656fc57d02104694ae48e9ab3466f66c1f5d1d2040b90b",
-  "size": 99366057,
-  "notes": "The coop key N now stays in your profile when you switch versions (it will become a standard control), and the old NoLight debug key is no longer touched. Nothing else changed from x20. Everyone in a match needs this build.",
-  "released": "2026-09-25T12:39:14Z",
+  "version": "2026.09.25-x22",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.25-x22/scda-ce-exp-2026.09.25-x22.scdaupd",
+  "sha256": "4ded807116bae099e2623b694b047e143b5f7ee58b14bf76ecfdf6f8f80a289c",
+  "size": 113249212,
+  "notes": "Club House (Chaos Theory's Club E) for testing",
+  "released": "2026-09-25T12:44:17Z",
   "addons": [
     {
       "code": "NGHTW",
@@ -40,6 +40,16 @@
     {
       "code": "PROXVC",
       "title": "Proximity voice chat",
+      "kind": "files"
+    },
+    {
+      "code": "CLUBE",
+      "title": "Club House",
+      "kind": "map"
+    },
+    {
+      "code": "CLUBEX",
+      "title": "Club House -- sound banks, steam vents and zone names",
       "kind": "files"
     }
   ],
