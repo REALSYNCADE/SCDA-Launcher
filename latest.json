@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.25-x20",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.25-x20/scda-ce-exp-2026.09.25-x20.scdaupd",
-  "sha256": "058a8c2e3b586e1f062218d8a0ddf157583d21b0f76edee0a8bbb201a71cf720",
-  "size": 99366182,
-  "notes": "Kinshasa: footsteps and gadgets are now heard through doorways instead of straight through walls, so a sound in another room is quieter and comes from the doorway. Everyone in a Kinshasa match needs this build.",
-  "released": "2026-09-25T09:17:59Z",
+  "version": "2026.09.25-x21",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.25-x21/scda-ce-exp-2026.09.25-x21.scdaupd",
+  "sha256": "41b063466d053860a8656fc57d02104694ae48e9ab3466f66c1f5d1d2040b90b",
+  "size": 99366057,
+  "notes": "The coop key N now stays in your profile when you switch versions (it will become a standard control), and the old NoLight debug key is no longer touched. Nothing else changed from x20. Everyone in a match needs this build.",
+  "released": "2026-09-25T12:39:14Z",
   "addons": [
     {
       "code": "NGHTW",
