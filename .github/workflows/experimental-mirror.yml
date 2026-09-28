@@ -1,0 +1,39 @@
+name: experimental-mirror
+
+# Carries REALSYNCADE/SCDA-Experimental's latest.json onto the `experimental`
+# branch, which is the experimental channel address compiled into every
+# launcher. See .github/scripts/mirror_experimental.py for the checks.
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: experimental-mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out the mirror script (main)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: tools
+          sparse-checkout: .github/scripts
+      - name: Check out the experimental branch
+        uses: actions/checkout@v4
+        with:
+          ref: experimental
+          path: channel
+      - name: Mirror
+        working-directory: channel
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 ../tools/.github/scripts/mirror_experimental.py
