@@ -1,8 +1,12 @@
 name: experimental-mirror
 
-# Carries REALSYNCADE/SCDA-Experimental's latest.json onto the `experimental`
-# branch, which is the experimental channel address compiled into every
-# launcher. See .github/scripts/mirror_experimental.py for the checks.
+# Carries a build published in the private REALSYNCADE/SCDA-Experimental to the
+# players: copies its bundle into a public pre-release here and puts latest.json
+# on the `experimental` branch, the channel address compiled into every launcher.
+# See .github/scripts/mirror_experimental.py for the checks.
+#
+# Needs the repository secret EXPERIMENTAL_READ_TOKEN: a fine-grained personal
+# access token of the owner with Contents: read-only on SCDA-Experimental.
 
 on:
   schedule:
@@ -19,7 +23,7 @@ concurrency:
 jobs:
   mirror:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - name: Check out the mirror script (main)
         uses: actions/checkout@v4
@@ -36,4 +40,5 @@ jobs:
         working-directory: channel
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXPERIMENTAL_TOKEN: ${{ secrets.EXPERIMENTAL_READ_TOKEN }}
         run: python3 ../tools/.github/scripts/mirror_experimental.py
