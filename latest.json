@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.09.25-5",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.25-5/scda-ce-2026.09.25-5.scdaupd",
-  "sha256": "eb4a165e2019487c3617971e32e8d8a4a8c24ea432c2e6040cf9b0cf42f1afc6",
-  "size": 56178866,
-  "notes": "Launcher 3.17: the experimental maps get menu names of their own that no map of yours can take, and old Kinshasa 1.0 leftovers are cleaned up. The game is unchanged from 2026.09.25-4.",
-  "released": "2026-09-25T14:10:04Z",
+  "version": "2026.09.28-1",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.28-1/scda-ce-2026.09.28-1.scdaupd",
+  "sha256": "cf54aa7ec6f346b9f151430d31a0c63b970174ce085eb6b93cf0d1afd1c55039",
+  "size": 56184960,
+  "notes": "A flashbang blinds a merc when it can be seen from his eyes, not from the middle of his body, and a tapped crouch no longer rolls (RollFix). Both from experimental 2026.09.28-x34.",
+  "released": "2026-09-28T16:14:08Z",
   "addons": [
     {
       "code": "KIN01",
@@ -19,7 +19,7 @@
     },
     {
       "code": "SMOKE",
-      "title": "Smoke mines, spawn protection, frag blast and merc jump",
+      "title": "Smoke mines, spawn protection, frag blast, merc jump, flashbang sight and roll fix",
       "kind": "files"
     }
   ],
