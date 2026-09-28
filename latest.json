@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.28-x35",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.28-x35/scda-ce-exp-2026.09.28-x35.scdaupd",
-  "sha256": "4e852ab27a95db4208dd3415e44512ba286ba2facc64ed7ccfda695407e5ef69",
-  "size": 136765199,
-  "notes": "Same game as x34; the roll fix now also ships on the main build, so experimental takes it over instead of clashing with it.",
-  "released": "2026-09-28T16:23:02Z",
+  "version": "2026.09.28-x36",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.28-x36/scda-ce-exp-2026.09.28-x36.scdaupd",
+  "sha256": "9be4875f47a6c950b97c821ea5b5995eb2dc6e0d772c75efda73dc99fb459c46",
+  "size": 136769632,
+  "notes": "The host can now turn spawn protection on or off for the match: new 'Spawn Protection' row in the lobby, under Bots.",
+  "released": "2026-09-28T22:28:53Z",
   "addons": [
     {
       "code": "NGHTW",
