@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.27-x33",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.27-x33/scda-ce-exp-2026.09.27-x33.scdaupd",
-  "sha256": "0b2e74b77fe2a99072f0d7dadfae25e60ae72f8a9cd1d4d71922869eddf16cd4",
-  "size": 136763452,
-  "notes": "Kill cam: no crash on explosion deaths, and the kill cam shows the dying player's own skin",
-  "released": "2026-09-27T09:27:28Z",
+  "version": "2026.09.28-x34",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.28-x34/scda-ce-exp-2026.09.28-x34.scdaupd",
+  "sha256": "1205149130b764b79a025f726054cf6b87d94195bcdcd9cdf5767702d38b8f32",
+  "size": 136765154,
+  "notes": "Flashbang line of sight now ends at the merc's camera, not his body; RollFix stops the tapped-crouch roll",
+  "released": "2026-09-28T06:52:36Z",
   "addons": [
     {
       "code": "NGHTW",
