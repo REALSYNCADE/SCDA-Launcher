@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.01-x41",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.01-x41/scda-ce-exp-2026.10.01-x41.scdaupd",
-  "sha256": "394a39ac6c08cbc272980d3f3a98653f113ea0aaa8b089f93157ecd705fef4f3",
-  "size": 136821680,
-  "notes": "Club House update: the two garden merc spawns now stand on the footbridge instead of under it, the merc briefing drone is at the merc base, and the lamps behave: standing lamps light from the lamp itself, double corner lamps go out together, ceiling lamps that did nothing when hacked now go dark, and backup lights no longer outshine the lamp they replace.",
-  "released": "2026-10-01T16:35:17Z",
+  "version": "2026.10.01-x42",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.01-x42/scda-ce-exp-2026.10.01-x42.scdaupd",
+  "sha256": "26464f29b423db3aa3233cfb7b23d4e8a1f69598aa981664f88a010da68e79d2",
+  "size": 147062303,
+  "notes": "New map: Warehouse (Chaos Theory). Every player needs this build to join it. All sector gates are open, the four terminals are spread over the warehouse with the yellow one beside the red one, and footsteps sound per surface. Club House as in x41.",
+  "released": "2026-10-01T17:38:34Z",
   "addons": [
     {
       "code": "NGHTW",
@@ -63,8 +63,13 @@
       "kind": "map"
     },
     {
+      "code": "WAREH",
+      "title": "Warehouse",
+      "kind": "map"
+    },
+    {
       "code": "CLUBEX",
-      "title": "Club House -- sound banks, steam vents and zone names",
+      "title": "Club House and Warehouse -- sound banks, steam vents and zone names",
       "kind": "files"
     },
     {
