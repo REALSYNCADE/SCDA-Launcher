@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.01-x40",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.01-x40/scda-ce-exp-2026.10.01-x40.scdaupd",
-  "sha256": "047070e76e099b65a43a43063ba1e8819cd6642e864b6f08892a5afcc582fe0d",
-  "size": 136812634,
-  "notes": "Spy grab: a spy can now grab a merc during the end of the berserk spin, during the whole stagger after a wall sprint, and on stairs. Every player needs this build.",
-  "released": "2026-10-01T11:12:09Z",
+  "version": "2026.10.01-x41",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.01-x41/scda-ce-exp-2026.10.01-x41.scdaupd",
+  "sha256": "394a39ac6c08cbc272980d3f3a98653f113ea0aaa8b089f93157ecd705fef4f3",
+  "size": 136821680,
+  "notes": "Club House update: the two garden merc spawns now stand on the footbridge instead of under it, the merc briefing drone is at the merc base, and the lamps behave: standing lamps light from the lamp itself, double corner lamps go out together, ceiling lamps that did nothing when hacked now go dark, and backup lights no longer outshine the lamp they replace.",
+  "released": "2026-10-01T16:35:17Z",
   "addons": [
     {
       "code": "NGHTW",
