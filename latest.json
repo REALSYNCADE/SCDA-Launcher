@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.01-x38",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.01-x38/scda-ce-exp-2026.10.01-x38.scdaupd",
-  "sha256": "a2a33464c9930e242308933894d673f50c850d17302ef353ed66cda8415ad792",
-  "size": 136779292,
-  "notes": "Coop boost fixed: the jumper is no longer thrown to a random place. The kneeling spy's ledge is found for the throw, and the jumper walks in and jumps on his own machine",
-  "released": "2026-10-01T00:40:46Z",
+  "version": "2026.10.01-x40",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.01-x40/scda-ce-exp-2026.10.01-x40.scdaupd",
+  "sha256": "047070e76e099b65a43a43063ba1e8819cd6642e864b6f08892a5afcc582fe0d",
+  "size": 136812634,
+  "notes": "Spy grab: a spy can now grab a merc during the end of the berserk spin, during the whole stagger after a wall sprint, and on stairs. Every player needs this build.",
+  "released": "2026-10-01T11:12:09Z",
   "addons": [
     {
       "code": "NGHTW",
@@ -35,6 +35,16 @@
     {
       "code": "MERCWP",
       "title": "Merc weapons -- shotgun and Desert Eagle",
+      "kind": "files"
+    },
+    {
+      "code": "SNIPHS",
+      "title": "Sniper headshot sound",
+      "kind": "files"
+    },
+    {
+      "code": "SPYGRB",
+      "title": "Spy grab -- spin, wall stagger and stairs",
       "kind": "files"
     },
     {
