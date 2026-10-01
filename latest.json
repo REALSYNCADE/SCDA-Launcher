@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.01-x42",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.01-x42/scda-ce-exp-2026.10.01-x42.scdaupd",
-  "sha256": "26464f29b423db3aa3233cfb7b23d4e8a1f69598aa981664f88a010da68e79d2",
-  "size": 147062303,
-  "notes": "New map: Warehouse (Chaos Theory). Every player needs this build to join it. All sector gates are open, the four terminals are spread over the warehouse with the yellow one beside the red one, and footsteps sound per surface. Club House as in x41.",
-  "released": "2026-10-01T17:38:34Z",
+  "version": "2026.10.01-x43",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.01-x43/scda-ce-exp-2026.10.01-x43.scdaupd",
+  "sha256": "dcc3d3e7d667c99bb9616c4612ec856cc1e9d124128b421c415860f4b22b36f6",
+  "size": 165764100,
+  "notes": "Club House and Warehouse: the laptops are back in every mode and open the Warehouse sector gates, the chain-link fences can be climbed, railings can be climbed over from a hang, the yellow Warehouse terminal sits in Sector 1, and both maps show their own 3D model in the map list. Every player needs this build.",
+  "released": "2026-10-01T18:49:09Z",
   "addons": [
     {
       "code": "NGHTW",
@@ -70,6 +70,11 @@
     {
       "code": "CLUBEX",
       "title": "Club House and Warehouse -- sound banks, steam vents and zone names",
+      "kind": "files"
+    },
+    {
+      "code": "MAPOBJ",
+      "title": "Map objectives -- laptops, gates and bomb sites in every mode",
       "kind": "files"
     },
     {
