@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.01-x43",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.01-x43/scda-ce-exp-2026.10.01-x43.scdaupd",
-  "sha256": "dcc3d3e7d667c99bb9616c4612ec856cc1e9d124128b421c415860f4b22b36f6",
-  "size": 165764100,
-  "notes": "Club House and Warehouse: the laptops are back in every mode and open the Warehouse sector gates, the chain-link fences can be climbed, railings can be climbed over from a hang, the yellow Warehouse terminal sits in Sector 1, and both maps show their own 3D model in the map list. Every player needs this build.",
-  "released": "2026-10-01T18:49:09Z",
+  "version": "2026.10.01-x44",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.01-x44/scda-ce-exp-2026.10.01-x44.scdaupd",
+  "sha256": "b647b1c297d3f1842ea8425d9b42022af7e8ecc3eaf16d88e210052a96d15fd9",
+  "size": 165764553,
+  "notes": "Club House and Warehouse climbing fixes: Warehouse catwalk ladder climbs out at the top, catwalk railings can be climbed over from below like the bridge, no more invisible grab spots floating above crates, boxes and the Sector 2 grille (also the long hallway boxes in Club House). Every player needs this build.",
+  "released": "2026-10-01T20:23:51Z",
   "addons": [
     {
       "code": "NGHTW",
