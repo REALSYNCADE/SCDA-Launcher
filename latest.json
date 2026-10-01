@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.09.30-x37",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.09.30-x37/scda-ce-exp-2026.09.30-x37.scdaupd",
-  "sha256": "760c1a869114667197bf1801faee791305fbeaad1c7376807bb88fc99bdf1b25",
-  "size": 136771125,
-  "notes": "Fixes the crash when another merc picks the Shotgun or Desert Eagle; weapons are picked in the lobby only",
-  "released": "2026-09-30T12:05:25Z",
+  "version": "2026.10.01-x38",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.01-x38/scda-ce-exp-2026.10.01-x38.scdaupd",
+  "sha256": "a2a33464c9930e242308933894d673f50c850d17302ef353ed66cda8415ad792",
+  "size": 136779292,
+  "notes": "Coop boost fixed: the jumper is no longer thrown to a random place. The kneeling spy's ledge is found for the throw, and the jumper walks in and jumps on his own machine",
+  "released": "2026-10-01T00:40:46Z",
   "addons": [
     {
       "code": "NGHTW",
