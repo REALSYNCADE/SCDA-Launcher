@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.09.28-1",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.09.28-1/scda-ce-2026.09.28-1.scdaupd",
-  "sha256": "cf54aa7ec6f346b9f151430d31a0c63b970174ce085eb6b93cf0d1afd1c55039",
-  "size": 56184960,
-  "notes": "A flashbang blinds a merc when it can be seen from his eyes, not from the middle of his body, and a tapped crouch no longer rolls (RollFix). Both from experimental 2026.09.28-x34.",
-  "released": "2026-09-28T16:14:08Z",
+  "version": "2026.10.02-1",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.02-1/scda-ce-2026.10.02-1.scdaupd",
+  "sha256": "fb282cfeb97af14748cb532135d3366bd54ae20843d029ce89b7e2bb768cc954",
+  "size": 56185038,
+  "notes": "Launcher 3.18: the launcher shows these patch notes instead of a list of files, keeps the keys you rebind in the game's Controls menu, no longer uses Mumble, and cleans the Experimental Build of every older experimental add-on. The game itself is unchanged.",
+  "released": "2026-10-02T11:15:24Z",
   "addons": [
     {
       "code": "KIN01",
