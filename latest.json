@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.02-1",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.02-1/scda-ce-2026.10.02-1.scdaupd",
-  "sha256": "fb282cfeb97af14748cb532135d3366bd54ae20843d029ce89b7e2bb768cc954",
-  "size": 56185038,
-  "notes": "Launcher 3.18: the launcher shows these patch notes instead of a list of files, keeps the keys you rebind in the game's Controls menu, no longer uses Mumble, and cleans the Experimental Build of every older experimental add-on. The game itself is unchanged.",
-  "released": "2026-10-02T11:15:24Z",
+  "version": "2026.10.02-2",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.02-2/scda-ce-2026.10.02-2.scdaupd",
+  "sha256": "42d62de5a66e7688763a8524a85b1d44f0481a70255e8b24d2b7710bc6e86c31",
+  "size": 56185126,
+  "notes": "Launcher 3.19: PLAY starts the game the first time. Old log files from removed experimental add-ons no longer block PLAY; a game that is still running or stuck is detected and can be closed from the launcher; a second press while the game loads just says it is starting; a repair goes straight on to start the game. The game itself is unchanged.",
+  "released": "2026-10-02T13:20:15Z",
   "addons": [
     {
       "code": "KIN01",
