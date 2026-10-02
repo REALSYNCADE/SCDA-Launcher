@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.02-x45",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.02-x45/scda-ce-exp-2026.10.02-x45.scdaupd",
-  "sha256": "05569ff13ef54cde3e739e1b74105feb7c62111fdff76f2a10a174de40437f6e",
-  "size": 43055695,
-  "notes": "Experimental is now the clean Community Edition plus: proximity voice chat (hold V, or X / Square on a pad), Club House (beta) and Warehouse (beta), and a lobby switch to turn spawn protection off for a match (host, under Bots). Every older experimental add-on is removed. Needs launcher 3.18, which updates itself.",
-  "released": "2026-10-02T11:17:19Z",
+  "version": "2026.10.02-x46",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.02-x46/scda-ce-exp-2026.10.02-x46.scdaupd",
+  "sha256": "7f6cc0b141e9eb84420ab07cb08c3012e4ca031397e307a03176a6b2708b989e",
+  "size": 43055697,
+  "notes": "Ladder fixes: the Club House roof ladder can now be stepped onto from the deck (before, you had to jump onto it, which mercs barely managed), and the three ladders on the Sector 3 machine in Warehouse no longer push you off when you step on.",
+  "released": "2026-10-02T15:30:51Z",
   "addons": [
     {
       "code": "VOICE",
