@@ -1,48 +1,18 @@
 {
   "track": "experimental",
-  "version": "2026.10.02-x46",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.02-x46/scda-ce-exp-2026.10.02-x46.scdaupd",
-  "sha256": "7f6cc0b141e9eb84420ab07cb08c3012e4ca031397e307a03176a6b2708b989e",
-  "size": 43055697,
-  "notes": "Ladder fixes: the Club House roof ladder can now be stepped onto from the deck (before, you had to jump onto it, which mercs barely managed), and the three ladders on the Sector 3 machine in Warehouse no longer push you off when you step on.",
-  "released": "2026-10-02T15:30:51Z",
+  "version": "2026.10.02-x47",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.02-x47/scda-ce-exp-2026.10.02-x47.scdaupd",
+  "sha256": "6166175bcdc639caa0274a2453445b9d6eebae87d05e3ac3cc51c3bb01d9a154",
+  "size": 29595,
+  "notes": "Club House, Warehouse, proximity voice chat and the spawn-protection switch are now part of the main game (Community Edition 2026.10.02-3), so Experimental is the same game as Community Edition for now.",
+  "released": "2026-10-02T18:39:22Z",
   "addons": [
-    {
-      "code": "VOICE",
-      "title": "Proximity voice chat (push-to-talk)",
-      "kind": "files"
-    },
-    {
-      "code": "CLUBE",
-      "title": "Club House (beta)",
-      "kind": "map"
-    },
-    {
-      "code": "WAREH",
-      "title": "Warehouse (beta)",
-      "kind": "map"
-    },
-    {
-      "code": "CLUBEX",
-      "title": "Club House and Warehouse -- sound banks, steam vents and zone names",
-      "kind": "files"
-    },
-    {
-      "code": "MAPOBJ",
-      "title": "Map objectives -- laptops, gates and bomb sites in every mode",
-      "kind": "files"
-    },
     {
       "code": "MAPKEY",
       "title": "Experimental map names",
       "kind": "files"
-    },
-    {
-      "code": "SPAWNT",
-      "title": "Spawn protection lobby switch",
-      "kind": "files"
     }
   ],
-  "min_patcher": 3,
+  "min_patcher": 2,
   "min_launcher": "3.18"
 }
