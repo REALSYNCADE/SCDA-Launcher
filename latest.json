@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.02-3",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.02-3/scda-ce-2026.10.02-3.scdaupd",
-  "sha256": "b91d329e43ac77dc3f1b7503e64d13f4043c207187aa0bde0c98cfc5a8e8f589",
-  "size": 99116256,
-  "notes": "New maps for everyone: Club House (beta) and Warehouse (beta), from Chaos Theory, with their own 3D models in the map list; laptops and gates work in every mode. Proximity voice chat: hold V (X / Square on a pad). The host can switch spawn protection off for a match in the lobby (under Bots). Club House pipe in the steam bath and the roof ladder can be climbed now; Warehouse Sector 3 machine ladders fixed.",
-  "released": "2026-10-02T18:37:57Z",
+  "version": "2026.10.02-4",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.02-4/scda-ce-2026.10.02-4.scdaupd",
+  "sha256": "485dfd331c6cd3fd802fb216b4543daa8659960102c80e23c800dba7b8cccd89",
+  "size": 99116146,
+  "notes": "Club House lifts carry you up and down again (you no longer get stuck inside the elevator).",
+  "released": "2026-10-02T21:05:50Z",
   "addons": [
     {
       "code": "KIN01",
