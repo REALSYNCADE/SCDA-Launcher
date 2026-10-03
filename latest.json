@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.02-4",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.02-4/scda-ce-2026.10.02-4.scdaupd",
-  "sha256": "485dfd331c6cd3fd802fb216b4543daa8659960102c80e23c800dba7b8cccd89",
-  "size": 99116146,
-  "notes": "Club House lifts carry you up and down again (you no longer get stuck inside the elevator).",
-  "released": "2026-10-02T21:05:50Z",
+  "version": "2026.10.02-5",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.02-5/scda-ce-2026.10.02-5.scdaupd",
+  "sha256": "93f53d3d79f415a50ca587148e55f752e80554521c17ce8cf2b354732af256d2",
+  "size": 99116230,
+  "notes": "Launcher 3.20: Settings > Collect logs for support saves a zip of your game and launcher logs to your Desktop -- send it to the SCDA team on Discord when something goes wrong.",
+  "released": "2026-10-03T12:22:15Z",
   "addons": [
     {
       "code": "KIN01",
