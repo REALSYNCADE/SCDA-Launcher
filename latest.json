@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.02-5",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.02-5/scda-ce-2026.10.02-5.scdaupd",
-  "sha256": "93f53d3d79f415a50ca587148e55f752e80554521c17ce8cf2b354732af256d2",
-  "size": 99116230,
-  "notes": "Launcher 3.20: Settings > Collect logs for support saves a zip of your game and launcher logs to your Desktop -- send it to the SCDA team on Discord when something goes wrong.",
-  "released": "2026-10-03T12:22:15Z",
+  "version": "2026.10.07-1",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.07-1/scda-ce-2026.10.07-1.scdaupd",
+  "sha256": "4b44cf1cdeb8285f533fddd12cb7404d9aa04b5c161270bab85dc9b3e1ba8f97",
+  "size": 99146394,
+  "notes": "Match recording for better spy bots: the host's game records how matches are played (positions, stance, hacks, extractions, deaths, respawns) so we can teach the spy bots real routes and tactics on every map. No names, IP addresses, chat or voice -- players appear only as slot numbers. Recordings are small and are uploaded when the launcher starts. You can turn recording off at any time in the launcher: Settings > Record my matches to improve the bots.",
+  "released": "2026-10-07T12:33:45Z",
   "addons": [
     {
       "code": "KIN01",
@@ -51,7 +51,13 @@
       "code": "SPAWNT",
       "title": "Spawn protection lobby switch",
       "kind": "files"
+    },
+    {
+      "code": "MATCHREC",
+      "title": "Match recording for better spy bots",
+      "kind": "files"
     }
   ],
-  "min_patcher": 2
+  "min_patcher": 2,
+  "min_launcher": "3.21"
 }
