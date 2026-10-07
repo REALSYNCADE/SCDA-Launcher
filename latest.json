@@ -1,18 +1,23 @@
 {
   "track": "experimental",
-  "version": "2026.10.02-x47",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.02-x47/scda-ce-exp-2026.10.02-x47.scdaupd",
-  "sha256": "6166175bcdc639caa0274a2453445b9d6eebae87d05e3ac3cc51c3bb01d9a154",
-  "size": 29595,
-  "notes": "Club House, Warehouse, proximity voice chat and the spawn-protection switch are now part of the main game (Community Edition 2026.10.02-3), so Experimental is the same game as Community Edition for now.",
-  "released": "2026-10-02T18:39:22Z",
+  "version": "2026.10.07-x48",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.07-x48/scda-ce-exp-2026.10.07-x48.scdaupd",
+  "sha256": "e41e9c6a3e581079aecb10ac86333d91294e79e6a3e86c4b39c10a1b9642b6cd",
+  "size": 384748,
+  "notes": "Club House fixes from player feedback: the Zen Garden glass hack now also opens the two back panes (as in Chaos Theory); the breakable ceiling tiles no longer carry an oversized invisible body, so the Garden 2nd Vent shaft can be climbed, the 2nd floor corridor cabinet tops have no invisible wall and the lunch room ceiling strip is passable; three floating ledges over the corridor cabinets removed.",
+  "released": "2026-10-07T23:49:58Z",
   "addons": [
     {
       "code": "MAPKEY",
       "title": "Experimental map names",
       "kind": "files"
+    },
+    {
+      "code": "CLUBFX",
+      "title": "Club House fixes (player feedback)",
+      "kind": "files"
     }
   ],
-  "min_patcher": 2,
+  "min_patcher": 3,
   "min_launcher": "3.18"
 }
