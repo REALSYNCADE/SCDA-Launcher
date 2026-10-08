@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.08-x50",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.08-x50/scda-ce-exp-2026.10.08-x50.scdaupd",
-  "sha256": "30c737fc430878fe8326f4d3715d952127cffdff4434cbcb72679d6155ab894e",
-  "size": 619083,
-  "notes": "Warehouse: jumping up from the crate stacks under the Sector 1 catwalk railings now catches the catwalk edge, so you climb over the railing instead of hanging on the top rail. Club House fixes (x48) and the Sector 1 ladder fix (x49) included.",
-  "released": "2026-10-08T12:48:35Z",
+  "version": "2026.10.08-x51",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.08-x51/scda-ce-exp-2026.10.08-x51.scdaupd",
+  "sha256": "aee905a715620b7d2f049fb067ed7f082e2862ad600f25eaccd8dbd3eb95d320",
+  "size": 5531386,
+  "notes": "Club House: once the Zen Garden glass hack has opened the back panes, the lip of the glass wall can be climbed and dropped over (the wall's collision sealed the gap before, and also stopped shots through it). Warehouse ladder and railing fixes (x49, x50) included.",
+  "released": "2026-10-08T13:26:14Z",
   "addons": [
     {
       "code": "MAPKEY",
