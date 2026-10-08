@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.07-x48",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.07-x48/scda-ce-exp-2026.10.07-x48.scdaupd",
-  "sha256": "e41e9c6a3e581079aecb10ac86333d91294e79e6a3e86c4b39c10a1b9642b6cd",
-  "size": 384748,
-  "notes": "Club House fixes from player feedback: the Zen Garden glass hack now also opens the two back panes (as in Chaos Theory); the breakable ceiling tiles no longer carry an oversized invisible body, so the Garden 2nd Vent shaft can be climbed, the 2nd floor corridor cabinet tops have no invisible wall and the lunch room ceiling strip is passable; three floating ledges over the corridor cabinets removed.",
-  "released": "2026-10-07T23:49:58Z",
+  "version": "2026.10.07-x49",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.07-x49/scda-ce-exp-2026.10.07-x49.scdaupd",
+  "sha256": "c24f5c52b6d303afc884dcd2b45106c0297a7c5e1a4374e0933650fe71b145c0",
+  "size": 619015,
+  "notes": "Warehouse fix from player feedback: the Sector 1 wall ladder beside the duct can be mounted reliably from the front again and no longer from behind (it was walk-through and could be climbed facing the wrong way). Club House fixes from x48 included.",
+  "released": "2026-10-08T12:02:49Z",
   "addons": [
     {
       "code": "MAPKEY",
@@ -15,6 +15,11 @@
     {
       "code": "CLUBFX",
       "title": "Club House fixes (player feedback)",
+      "kind": "files"
+    },
+    {
+      "code": "WAREFX",
+      "title": "Warehouse fixes (player feedback)",
       "kind": "files"
     }
   ],
