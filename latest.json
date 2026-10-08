@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.07-x49",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.07-x49/scda-ce-exp-2026.10.07-x49.scdaupd",
-  "sha256": "c24f5c52b6d303afc884dcd2b45106c0297a7c5e1a4374e0933650fe71b145c0",
-  "size": 619015,
-  "notes": "Warehouse fix from player feedback: the Sector 1 wall ladder beside the duct can be mounted reliably from the front again and no longer from behind (it was walk-through and could be climbed facing the wrong way). Club House fixes from x48 included.",
-  "released": "2026-10-08T12:02:49Z",
+  "version": "2026.10.08-x50",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.08-x50/scda-ce-exp-2026.10.08-x50.scdaupd",
+  "sha256": "30c737fc430878fe8326f4d3715d952127cffdff4434cbcb72679d6155ab894e",
+  "size": 619083,
+  "notes": "Warehouse: jumping up from the crate stacks under the Sector 1 catwalk railings now catches the catwalk edge, so you climb over the railing instead of hanging on the top rail. Club House fixes (x48) and the Sector 1 ladder fix (x49) included.",
+  "released": "2026-10-08T12:48:35Z",
   "addons": [
     {
       "code": "MAPKEY",
