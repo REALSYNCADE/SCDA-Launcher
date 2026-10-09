@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.08-x51",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.08-x51/scda-ce-exp-2026.10.08-x51.scdaupd",
-  "sha256": "aee905a715620b7d2f049fb067ed7f082e2862ad600f25eaccd8dbd3eb95d320",
-  "size": 5531386,
-  "notes": "Club House: once the Zen Garden glass hack has opened the back panes, the lip of the glass wall can be climbed and dropped over (the wall's collision sealed the gap before, and also stopped shots through it). Warehouse ladder and railing fixes (x49, x50) included.",
-  "released": "2026-10-08T13:26:14Z",
+  "version": "2026.10.09-x52",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.09-x52/scda-ce-exp-2026.10.09-x52.scdaupd",
+  "sha256": "ee9f860d7def50f9a4866e9aa2b5fd5a3e26ea6ea1eac5037a08217a0e4202bf",
+  "size": 60727815,
+  "notes": "Coop moves on N and new skins. Spies: kneel under a ledge with N to give a boost (your partner presses N near you and is thrown up to the ledge), or press N while hanging from a ledge to offer a hoist. New spy skins: Venom, Spider-Man, Breacher, Viper, Ghost, Sandstorm, Lara and Obsidian; new merc skins: Metro Police, Special Forces, SWAT and Squad Commander. Pick them under Home, Skins before joining a game. Club House and Warehouse fixes (x48-x51) included.",
+  "released": "2026-10-09T14:51:04Z",
   "addons": [
     {
       "code": "MAPKEY",
@@ -20,6 +20,16 @@
     {
       "code": "WAREFX",
       "title": "Warehouse fixes (player feedback)",
+      "kind": "files"
+    },
+    {
+      "code": "COOPMV",
+      "title": "Coop moves on N (boost and hoist)",
+      "kind": "files"
+    },
+    {
+      "code": "SKINS",
+      "title": "Community skins",
       "kind": "files"
     }
   ],
