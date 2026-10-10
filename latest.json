@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.07-1",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.07-1/scda-ce-2026.10.07-1.scdaupd",
-  "sha256": "4b44cf1cdeb8285f533fddd12cb7404d9aa04b5c161270bab85dc9b3e1ba8f97",
-  "size": 99146394,
-  "notes": "Match recording for better spy bots: the host's game records how matches are played (positions, stance, hacks, extractions, deaths, respawns) so we can teach the spy bots real routes and tactics on every map. No names, IP addresses, chat or voice -- players appear only as slot numbers. Recordings are small and are uploaded when the launcher starts. You can turn recording off at any time in the launcher: Settings > Record my matches to improve the bots.",
-  "released": "2026-10-07T12:33:45Z",
+  "version": "2026.10.07-2",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.07-2/scda-ce-2026.10.07-2.scdaupd",
+  "sha256": "01083d82e8ddd0eb287dbff3109c80e3d1212ed18d1c2186d6e457edfb6b7d1d",
+  "size": 99146171,
+  "notes": "Launcher 3.22: on PCs that had the Experimental Build before 2 October, add-ons that were held back as already owned by a Main build add-on now install (the launcher hands those files back to their owner first). No game file changes.",
+  "released": "2026-10-10T15:56:36Z",
   "addons": [
     {
       "code": "KIN01",
