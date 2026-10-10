@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.10-x56",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.10-x56/scda-ce-exp-2026.10.10-x56.scdaupd",
-  "sha256": "9f70b923829d08ec3bcab0d9aa6e34a72c38af3cabae7b6cc9ca320a6c03c3a9",
-  "size": 109903874,
-  "notes": "Blackout mode: the ECC now has to stay off for 90 seconds (was 60) for the spies to win; the countdown and the timer box follow. Fixes the 2026.10.10-x55 build, which made the launcher refuse PLAY. Includes x54: the original suits back with the community skins on top, the lobby Skins and Change Mode buttons (Classic, Challenge 25%, Infinite, Blackout), coop moves and the Club House / Warehouse fixes.",
-  "released": "2026-10-10T15:02:04Z",
+  "version": "2026.10.10-x57",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.10-x57/scda-ce-exp-2026.10.10-x57.scdaupd",
+  "sha256": "699283ba4e0bd65a436ecfba52cf9b8ebc795acf251ecb51d40c229cf6765b6f",
+  "size": 109903924,
+  "notes": "Needs SCDA Launcher 3.22 (the launcher updates itself at start): on PCs that had the Experimental Build before 2 October, the community skins and game modes were held back as already owned by a Main build add-on; 3.22 installs them. Same game files as x56: the original suits back with the community skins on top, the lobby Skins and Change Mode buttons (Classic, Challenge 25%, Infinite, Blackout 90 s), coop moves and the Club House / Warehouse fixes.",
+  "released": "2026-10-10T16:01:02Z",
   "addons": [
     {
       "code": "MAPKEY",
@@ -34,5 +34,5 @@
     }
   ],
   "min_patcher": 3,
-  "min_launcher": "3.18"
+  "min_launcher": "3.22"
 }
