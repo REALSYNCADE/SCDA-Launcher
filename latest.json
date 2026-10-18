@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-3",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-3/scda-ce-2026.10.11-3.scdaupd",
-  "sha256": "f75722f311472e4bdb69411d73b899114024ccf573a0086515bd8687f5fcb5f5",
-  "size": 167533724,
-  "notes": "Warehouse update: the nine laptops now take 3 seconds to hack (was 12), and a few start, objective, drone and gadget-box spots are adjusted. Everything else as 2026.10.11-1 (needs SCDA Launcher 3.22).",
-  "released": "2026-10-12T00:43:32Z",
+  "version": "2026.10.11-4",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-4/scda-ce-2026.10.11-4.scdaupd",
+  "sha256": "c25c13780b419d3400650b9c180b493725af9120ac5f89cd6335a4880233fc4d",
+  "size": 167560657,
+  "notes": "Connection-problem logs: the game now keeps a network log of every connection (why a player was dropped, net speed, teams) and keeps the previous game's logs when you restart, so a crash is not lost. Settings > Collect logs for support puts them in the zip (needs SCDA Launcher 3.24, which this release brings). No gameplay changes.",
+  "released": "2026-10-18T19:09:29Z",
   "addons": [
     {
       "code": "KIN01",
@@ -60,6 +60,11 @@
     {
       "code": "CSKINS",
       "title": "Community skins and game modes",
+      "kind": "files"
+    },
+    {
+      "code": "NETLOG",
+      "title": "Network log and kept logs for support",
       "kind": "files"
     }
   ],
