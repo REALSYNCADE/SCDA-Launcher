@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-4",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-4/scda-ce-2026.10.11-4.scdaupd",
-  "sha256": "c25c13780b419d3400650b9c180b493725af9120ac5f89cd6335a4880233fc4d",
-  "size": 167560657,
-  "notes": "Connection-problem logs: the game now keeps a network log of every connection (why a player was dropped, net speed, teams) and keeps the previous game's logs when you restart, so a crash is not lost. Settings > Collect logs for support puts them in the zip (needs SCDA Launcher 3.24, which this release brings). No gameplay changes.",
-  "released": "2026-10-18T19:09:29Z",
+  "version": "2026.10.11-5",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-5/scda-ce-2026.10.11-5.scdaupd",
+  "sha256": "5405a22fa7fa2c7bd43afd87cd12832625dad4526357ff1586ab102e00285c9a",
+  "size": 167560589,
+  "notes": "Fix for the connection-problem logs of 2026.10.11-4: the network log now also records the map, the match state and which team every player is on. No gameplay changes.",
+  "released": "2026-10-18T19:25:16Z",
   "addons": [
     {
       "code": "KIN01",
