@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-6",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-6/scda-ce-2026.10.11-6.scdaupd",
-  "sha256": "083e741b4b96bf81d92a9274385fe9696833bc61474386c861bfdbef4b5166c9",
-  "size": 167599633,
-  "notes": "Crash recorder: when the game crashes, a short report of where it crashed and what the game was doing is saved on your PC, and the launcher offers to collect it for support. No gameplay changes.",
-  "released": "2026-10-19T01:17:50Z",
+  "version": "2026.10.11-7",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-7/scda-ce-2026.10.11-7.scdaupd",
+  "sha256": "02ea56cf4fb1b5023960f380102379c9e67a77744ce9966513bd09349bd9e541",
+  "size": 169222511,
+  "notes": "Chat and necks: new chat lines appear at once as plain text with the newest at the bottom, dead players can chat and see the chat, and a merc keeps his HUD and the chat in the scope and the drone. Spies can neck a merc on stairs, while he jumps or just after he lands, at the end of his berserk spin and through the stagger after he sprints into a wall or hits someone; when a neck is possible the interact key necks instead of using a switch, panel or the gadget stock. Mercs can start the berserk spin during those staggers. Necks need the spy and the host on this version.",
+  "released": "2026-10-19T21:54:39Z",
   "addons": [
     {
       "code": "KIN01",
