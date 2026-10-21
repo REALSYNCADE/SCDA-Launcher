@@ -1,93 +1,18 @@
 {
   "track": "experimental",
-  "version": "2026.10.17-x61",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.17-x61/scda-ce-exp-2026.10.17-x61.scdaupd",
-  "sha256": "4288eb659e1ed6d0fbfb82895a3f77277b3a4f81d03df41661a61aa0f8e4ecc9",
-  "size": 306905269,
-  "notes": "Chaos Theory gadgets are now real items in your gadget bar (bottom right, with their own icons): pick them on the lobby Equipment page (now remembered between launches), select with 3-6 and use them with the new Use Gadget key - B or mouse button 4, for both teams (change it under Controls, Common). Teammates now see each other's laptop hacks, bomb plants and who carries the disc, with objective markers on the Chaos Theory maps. If the game crashes, send System\\CrashCatch.log with your report.",
-  "released": "2026-10-17T10:16:44Z",
+  "version": "2026.10.21-x62",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.21-x62/scda-ce-exp-2026.10.21-x62.scdaupd",
+  "sha256": "cc247eb3d77cea010876a6ec9cdb07933256bbbcb57001cd4d0a4d8463aca50c",
+  "size": 17249,
+  "notes": "Experimental is now the normal game (same as the main version) plus a disconnect fix: when a player's connection stalls, the game now waits up to 30 seconds instead of dropping them after 5 (also in online lobbies). Everyone in a match needs this version for it to work. Chaos Theory beta is off experimental for now. If you were on the previous experimental: after the update press Settings > Restore stock, then PLAY. If you still get dropped, send the log bundle from the launcher.",
+  "released": "2026-10-21T03:39:30Z",
   "addons": [
     {
-      "code": "MAPKEY",
-      "title": "Experimental map names",
-      "kind": "files"
-    },
-    {
-      "code": "CLUBFX",
-      "title": "Club House fixes (player feedback)",
-      "kind": "files"
-    },
-    {
-      "code": "WAREFX",
-      "title": "Warehouse fixes (player feedback)",
-      "kind": "files"
-    },
-    {
-      "code": "COOPMV",
-      "title": "Coop moves on N (boost and hoist)",
-      "kind": "files"
-    },
-    {
-      "code": "SKINS",
-      "title": "Community skins and game modes",
-      "kind": "files"
-    },
-    {
-      "code": "CTGAD",
-      "title": "Chaos Theory gadgets and loadout",
-      "kind": "files"
-    },
-    {
-      "code": "NAVGD",
-      "title": "Merc bots on Chaos Theory maps",
-      "kind": "files"
-    },
-    {
-      "code": "CTSPL",
-      "title": "Double Agent / Chaos Theory game chooser",
-      "kind": "files"
-    },
-    {
-      "code": "TERM5",
-      "title": "Fifth terminal on Dawn Waves",
-      "kind": "files"
-    },
-    {
-      "code": "MODTI",
-      "title": "Mode in the lobby title",
-      "kind": "files"
-    },
-    {
-      "code": "COOPH",
-      "title": "Coop move icons",
-      "kind": "files"
-    },
-    {
-      "code": "ORPHE",
-      "title": "Orphanage (beta)",
-      "kind": "map"
-    },
-    {
-      "code": "AQUAE",
-      "title": "Aquarius (beta)",
-      "kind": "map"
-    },
-    {
-      "code": "CTSND",
-      "title": "Orphanage and Aquarius sound",
-      "kind": "files"
-    },
-    {
-      "code": "SECCM",
-      "title": "Security cameras and wall sensors",
-      "kind": "files"
-    },
-    {
-      "code": "CRASH",
-      "title": "Crash log",
+      "code": "NETGRC",
+      "title": "Disconnect grace (30 s)",
       "kind": "files"
     }
   ],
-  "min_patcher": 3,
+  "min_patcher": 2,
   "min_launcher": "3.22"
 }
