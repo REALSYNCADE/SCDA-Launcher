@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-8",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-8/scda-ce-2026.10.11-8.scdaupd",
-  "sha256": "3ab7e31e4c031ab0e09b7c1c65eeca65c866ba6988f4eead907cfe380f0a6fd9",
-  "size": 177766855,
-  "notes": "Female spies: a grenade thrown while jumping, hanging or on a pipe now drops at her feet instead of at the centre of the map. The host needs this version too.",
-  "released": "2026-10-21T17:54:17Z",
+  "version": "2026.10.11-9",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-9/scda-ce-2026.10.11-9.scdaupd",
+  "sha256": "fbb702c57f7f2d44479d082522b32b01809bd6d677a0e6e89abe3352ab47509f",
+  "size": 177766939,
+  "notes": "Launcher 3.26: repairs a launcher.cfg that points Experimental at the main channel file (the build then never got its own add-ons, such as the disconnect grace), warns in the log when an update is refused, and adds a close button to Settings.",
+  "released": "2026-10-23T03:07:13Z",
   "addons": [
     {
       "code": "KIN01",
