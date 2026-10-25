@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.25-x63",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.25-x63/scda-ce-exp-2026.10.25-x63.scdaupd",
-  "sha256": "65bc23b7a71868e4a7181bc2b6dca4f87a45d009edb471d06590df1b0ea9e5ff",
-  "size": 62042,
-  "notes": "Experimental is the normal game plus two fixes. The 30-second disconnect grace stays. New: players no longer get dropped when the next round loads because one player is slow (the host needs this version). The connection log now also records why a game left a match, so if you get dropped, send the log bundle from the launcher.",
-  "released": "2026-10-25T06:02:32Z",
+  "version": "2026.10.25-x64",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.25-x64/scda-ce-exp-2026.10.25-x64.scdaupd",
+  "sha256": "03d763ee3a923209686cfec109959d7c6b237ed1694f7cbe420eb71d01f66e02",
+  "size": 61635,
+  "notes": "Fixes the x63 update that refused to start the game (PLAY REFUSED after updating): just press PLAY again and the launcher updates. Everything else from x63 stays: the round-change fix for hosts, the 30-second disconnect grace and the connection log that records why a game left a match.",
+  "released": "2026-10-25T17:54:22Z",
   "addons": [
     {
       "code": "NETGRC",
