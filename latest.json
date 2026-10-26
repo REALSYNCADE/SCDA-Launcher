@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.26-x65",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.26-x65/scda-ce-exp-2026.10.26-x65.scdaupd",
-  "sha256": "99d9bd476f888f17f0dc43f993ed6c20300b839749cc2c6db9c904679a180e9c",
-  "size": 131260,
-  "notes": "Custom matches now play two rounds with an automatic side swap: after round 1 the sides switch and round 2 starts on the same map without going back to the lobby, then everyone sees the ranked result pages (winner, points, ranking). The host can switch it off in the lobby with the new Team Swap row under Spawn Protection. Also new: a freeze recorder that writes System\\HitchCatch.log when the game freezes for a quarter of a second, so the log bundle shows what blocked it. Everything from x64 stays.",
-  "released": "2026-10-26T15:00:36Z",
+  "version": "2026.10.26-x66",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.26-x66/scda-ce-exp-2026.10.26-x66.scdaupd",
+  "sha256": "a11656a0626b6c1a763ec2e13f555b050d9621481baf96b2e92bd7b5ae69620a",
+  "size": 4686153,
+  "notes": "Neck kills now land for every spy: a spy who is not the host no longer gets stuck holding a merc with frozen controls after pressing kill, and if a kill does not start within a second he goes back to holding the merc and can press kill again (the host needs this version). Chat icons are back and bigger: a skull on every kill line and an orange KO icon on knock-outs; player messages stay plain. Everything from x65 stays.",
+  "released": "2026-10-26T16:19:02Z",
   "addons": [
     {
       "code": "NETGRC",
@@ -30,6 +30,11 @@
     {
       "code": "RNKSTY",
       "title": "Two rounds with a side swap",
+      "kind": "files"
+    },
+    {
+      "code": "SPRK9",
+      "title": "Neck kills for every spy, chat icons",
       "kind": "files"
     }
   ],
