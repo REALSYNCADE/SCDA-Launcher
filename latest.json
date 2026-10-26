@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.25-x64",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.25-x64/scda-ce-exp-2026.10.25-x64.scdaupd",
-  "sha256": "03d763ee3a923209686cfec109959d7c6b237ed1694f7cbe420eb71d01f66e02",
-  "size": 61635,
-  "notes": "Fixes the x63 update that refused to start the game (PLAY REFUSED after updating): just press PLAY again and the launcher updates. Everything else from x63 stays: the round-change fix for hosts, the 30-second disconnect grace and the connection log that records why a game left a match.",
-  "released": "2026-10-25T17:54:22Z",
+  "version": "2026.10.26-x65",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.26-x65/scda-ce-exp-2026.10.26-x65.scdaupd",
+  "sha256": "99d9bd476f888f17f0dc43f993ed6c20300b839749cc2c6db9c904679a180e9c",
+  "size": 131260,
+  "notes": "Custom matches now play two rounds with an automatic side swap: after round 1 the sides switch and round 2 starts on the same map without going back to the lobby, then everyone sees the ranked result pages (winner, points, ranking). The host can switch it off in the lobby with the new Team Swap row under Spawn Protection. Also new: a freeze recorder that writes System\\HitchCatch.log when the game freezes for a quarter of a second, so the log bundle shows what blocked it. Everything from x64 stays.",
+  "released": "2026-10-26T15:00:36Z",
   "addons": [
     {
       "code": "NETGRC",
@@ -20,6 +20,16 @@
     {
       "code": "NETLG2",
       "title": "Connection log v1.2",
+      "kind": "files"
+    },
+    {
+      "code": "HITCH",
+      "title": "Freeze recorder",
+      "kind": "files"
+    },
+    {
+      "code": "RNKSTY",
+      "title": "Two rounds with a side swap",
       "kind": "files"
     }
   ],
