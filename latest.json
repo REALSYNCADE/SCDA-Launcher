@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.27-x67",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.27-x67/scda-ce-exp-2026.10.27-x67.scdaupd",
-  "sha256": "797142a225f206f28ca188ec2383bf16522bae8ec4346fbd4f0ede88389a9d4f",
-  "size": 4692374,
-  "notes": "Preparation for the ranked leaderboards (1v1, 2v2 and 3v3): two-round custom matches now record each player's result in System\\RankedStyle.log, so the leaderboard can be checked before it goes live. Nothing changes in play. Everything from x66 stays.",
-  "released": "2026-10-27T15:47:33Z",
+  "version": "2026.10.27-x68",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.27-x68/scda-ce-exp-2026.10.27-x68.scdaupd",
+  "sha256": "9b81e9bfeda7e3391b90dcad8d1882898b099c77b8718ccd7c291893972f4e3c",
+  "size": 4708886,
+  "notes": "Proximity voice for everyone: teammates now hear you only when they are close, exactly like enemies, louder the closer they are. The team radio is gone (use Discord for team talk). Push-to-talk on V and the voice sliders stay. Everything from x67 stays.",
+  "released": "2026-10-27T16:09:43Z",
   "addons": [
     {
       "code": "NETGRC",
@@ -20,6 +20,11 @@
     {
       "code": "NETLG2",
       "title": "Connection log v1.2",
+      "kind": "files"
+    },
+    {
+      "code": "VOICE6",
+      "title": "Proximity voice for everyone (no team radio)",
       "kind": "files"
     },
     {
