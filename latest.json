@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.26-x66",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.26-x66/scda-ce-exp-2026.10.26-x66.scdaupd",
-  "sha256": "a11656a0626b6c1a763ec2e13f555b050d9621481baf96b2e92bd7b5ae69620a",
-  "size": 4686153,
-  "notes": "Neck kills now land for every spy: a spy who is not the host no longer gets stuck holding a merc with frozen controls after pressing kill, and if a kill does not start within a second he goes back to holding the merc and can press kill again (the host needs this version). Chat icons are back and bigger: a skull on every kill line and an orange KO icon on knock-outs; player messages stay plain. Everything from x65 stays.",
-  "released": "2026-10-26T16:19:02Z",
+  "version": "2026.10.27-x67",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.27-x67/scda-ce-exp-2026.10.27-x67.scdaupd",
+  "sha256": "797142a225f206f28ca188ec2383bf16522bae8ec4346fbd4f0ede88389a9d4f",
+  "size": 4692374,
+  "notes": "Preparation for the ranked leaderboards (1v1, 2v2 and 3v3): two-round custom matches now record each player's result in System\\RankedStyle.log, so the leaderboard can be checked before it goes live. Nothing changes in play. Everything from x66 stays.",
+  "released": "2026-10-27T15:47:33Z",
   "addons": [
     {
       "code": "NETGRC",
