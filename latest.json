@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.27-x68",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.27-x68/scda-ce-exp-2026.10.27-x68.scdaupd",
-  "sha256": "9b81e9bfeda7e3391b90dcad8d1882898b099c77b8718ccd7c291893972f4e3c",
-  "size": 4708886,
-  "notes": "Proximity voice for everyone: teammates now hear you only when they are close, exactly like enemies, louder the closer they are. The team radio is gone (use Discord for team talk). Push-to-talk on V and the voice sliders stay. Everything from x67 stays.",
-  "released": "2026-10-27T16:09:43Z",
+  "version": "2026.10.28-x69",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.28-x69/scda-ce-exp-2026.10.28-x69.scdaupd",
+  "sha256": "bdd31ac6ea50887a985678dd1b6b20bc1339243d34f43f371c926292c1b7a89a",
+  "size": 4734829,
+  "notes": "No more being thrown out of the match by the game's own anti-cheat (controls freeze for 5 s, then the versus menu), which mostly hit players in round 2 after the side swap. Every player in a match needs this version. The game now also writes NoSelfKick.log in the System folder: please send your logs if you see a freeze or a kick, so the real cause can be fixed. Everything from x68 stays.",
+  "released": "2026-10-28T19:40:16Z",
   "addons": [
     {
       "code": "NETGRC",
@@ -25,6 +25,11 @@
     {
       "code": "VOICE6",
       "title": "Proximity voice for everyone (no team radio)",
+      "kind": "files"
+    },
+    {
+      "code": "NOKICK",
+      "title": "No anti-cheat self-kick",
       "kind": "files"
     },
     {
