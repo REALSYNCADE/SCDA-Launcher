@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.28-x69",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.28-x69/scda-ce-exp-2026.10.28-x69.scdaupd",
-  "sha256": "bdd31ac6ea50887a985678dd1b6b20bc1339243d34f43f371c926292c1b7a89a",
-  "size": 4734829,
-  "notes": "No more being thrown out of the match by the game's own anti-cheat (controls freeze for 5 s, then the versus menu), which mostly hit players in round 2 after the side swap. Every player in a match needs this version. The game now also writes NoSelfKick.log in the System folder: please send your logs if you see a freeze or a kick, so the real cause can be fixed. Everything from x68 stays.",
-  "released": "2026-10-28T19:40:16Z",
+  "version": "2026.10.29-x70",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.29-x70/scda-ce-exp-2026.10.29-x70.scdaupd",
+  "sha256": "b997ab1c1c3e7ffe5ed8b6a2688b77796e47d9e9dae15f46edec223392570476",
+  "size": 412793477,
+  "notes": "Eight Chaos Theory 3v3 maps are now in Custom Search as Double Agent maps: Orphanage 3v3, Aquarius 3v3, Club House 3v3, Polar Base 3v3, Steel Squat 3v3, Factory 3v3, Museum 3v3 and Prison 3v3. The four terminals are the objective, placed by hand on every map; laptops, bomb sites and switches still open their doors and gates. Doors on these maps no longer block you at their edges when they are open. Spies can boost and hoist each other at the Chaos Theory coop spots on these maps with N, or Square on a controller (Square also triggers push-to-talk). Merc bots can be added on these maps. Picking Chaos Theory under Change Mode on them plays the normal Double Agent rules for now. Everyone in a match needs x70. Big download (about 400 MB) because of the sound banks. If you still had the Chaos Theory beta (x61) and PLAY is refused, press Settings, Restore stock, then PLAY.",
+  "released": "2026-10-29T01:53:39Z",
   "addons": [
     {
       "code": "NETGRC",
@@ -45,6 +45,81 @@
     {
       "code": "SPRK9",
       "title": "Neck kills for every spy, chat icons",
+      "kind": "files"
+    },
+    {
+      "code": "MAPKEY",
+      "title": "Experimental map names",
+      "kind": "files"
+    },
+    {
+      "code": "CTBASE",
+      "title": "3v3 maps: Orphanage and Aquarius assets",
+      "kind": "files"
+    },
+    {
+      "code": "CTSND",
+      "title": "3v3 maps: sound",
+      "kind": "files"
+    },
+    {
+      "code": "T3HUD",
+      "title": "3v3 maps: room names",
+      "kind": "files"
+    },
+    {
+      "code": "MODEDA",
+      "title": "3v3 maps: Double Agent only",
+      "kind": "files"
+    },
+    {
+      "code": "NAVGD",
+      "title": "Merc bots on the 3v3 maps",
+      "kind": "files"
+    },
+    {
+      "code": "ORPHT",
+      "title": "Orphanage 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "AQUAT",
+      "title": "Aquarius 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "CLUBT",
+      "title": "Club House 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "POLAT",
+      "title": "Polar Base 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "STEET",
+      "title": "Steel Squat 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "FACTT",
+      "title": "Factory 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "MUSET",
+      "title": "Museum 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "PRISN",
+      "title": "Prison 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "COOPT",
+      "title": "Coop moves on the Chaos Theory 3v3 maps (spies)",
       "kind": "files"
     }
   ],
