@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.29-x73",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.29-x73/scda-ce-exp-2026.10.29-x73.scdaupd",
-  "sha256": "527d26923850013b6c5e6d723f6c5677e34c459d202ac24844c8f8e284b30736",
-  "size": 412749769,
-  "notes": "3v3 map fixes. Terminals now stand on the floor (or crate, snowcat, roof) instead of floating, on all eight 3v3 maps; three Club House terminals moved out of lamps. Doors on the 3v3 maps no longer leave invisible blocks in the doorway when open (Museum, Orphanage, Aquarius, Steel Squat, Factory, Prison, Polar Base). Orphanage: the spy gadget box is next to the spy drone again and the merc box and drone no longer float. Polar Base: you can climb up from a railing hang, vault over the walkway railings and pull mercs down from the walkway edge; container windows and the outer hut windows can be climbed. Everything from x72 stays. Everyone in a match needs x73.",
-  "released": "2026-10-29T17:54:58Z",
+  "version": "2026.10.29-x74",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.29-x74/scda-ce-exp-2026.10.29-x74.scdaupd",
+  "sha256": "a29ddb0d2240ddd1d98985ee3c8579b98fc199fc6e90eabffe52986b439e8824",
+  "size": 412753166,
+  "notes": "Ranked leaderboards are live: every two-round custom match (1v1, 2v2, 3v3) is now counted automatically, no screenshots needed. Your launcher sends the result after the match and the ranked board in Discord updates within a few minutes. Matches where someone leaves are not counted. Everything from x73 stays.",
+  "released": "2026-10-29T22:01:10Z",
   "addons": [
     {
       "code": "NETGRC",
