@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.29-x70",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.29-x70/scda-ce-exp-2026.10.29-x70.scdaupd",
-  "sha256": "b997ab1c1c3e7ffe5ed8b6a2688b77796e47d9e9dae15f46edec223392570476",
-  "size": 412793477,
-  "notes": "Eight Chaos Theory 3v3 maps are now in Custom Search as Double Agent maps: Orphanage 3v3, Aquarius 3v3, Club House 3v3, Polar Base 3v3, Steel Squat 3v3, Factory 3v3, Museum 3v3 and Prison 3v3. The four terminals are the objective, placed by hand on every map; laptops, bomb sites and switches still open their doors and gates. Doors on these maps no longer block you at their edges when they are open. Spies can boost and hoist each other at the Chaos Theory coop spots on these maps with N, or Square on a controller (Square also triggers push-to-talk). Merc bots can be added on these maps. Picking Chaos Theory under Change Mode on them plays the normal Double Agent rules for now. Everyone in a match needs x70. Big download (about 400 MB) because of the sound banks. If you still had the Chaos Theory beta (x61) and PLAY is refused, press Settings, Restore stock, then PLAY.",
-  "released": "2026-10-29T01:53:39Z",
+  "version": "2026.10.29-x71",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.29-x71/scda-ce-exp-2026.10.29-x71.scdaupd",
+  "sha256": "9d194aff691b2aefe9cf15848500973d807ab27c2b45263f363f96838e5efee9",
+  "size": 412795323,
+  "notes": "Map fixes on the 3v3 maps. Polar Base: spies can climb the fence cage on the hangar roof, the ladders work, the stairs have real ramps (no more falling through or choppy steps), and spies can dive through the hut windows from both sides. Steel Squat: fire extinguishers and gas cylinders explode when shot, grenaded or hacked for 3 s by a spy; the wall the crane switch knocks down can now be walked through by everyone, not just the host; the two breakable doors break; clotheslines and wires no longer hold you up; the sky is back; smoother stairs; two broken ledges fixed. Factory: every ladder now lets you step off at the top. Prison: window ledges sit on the sill and on both sides, floating ledges fixed, smoother stairs. New terminal spots on Polar Base, Steel Squat, Factory and Prison. Everyone in a match needs x71. Still to come: jumping over and pulling mercs off the Polar Base walkway railings, and ledge fixes on the other 3v3 maps.",
+  "released": "2026-10-29T16:27:55Z",
   "addons": [
     {
       "code": "NETGRC",
