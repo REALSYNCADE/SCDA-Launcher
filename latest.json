@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.29-x74",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.29-x74/scda-ce-exp-2026.10.29-x74.scdaupd",
-  "sha256": "a29ddb0d2240ddd1d98985ee3c8579b98fc199fc6e90eabffe52986b439e8824",
-  "size": 412753166,
-  "notes": "Ranked leaderboards are live: every two-round custom match (1v1, 2v2, 3v3) is now counted automatically, no screenshots needed. Your launcher sends the result after the match and the ranked board in Discord updates within a few minutes. Matches where someone leaves are not counted. Everything from x73 stays.",
-  "released": "2026-10-29T22:01:10Z",
+  "version": "2026.10.30-x75",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.30-x75/scda-ce-exp-2026.10.30-x75.scdaupd",
+  "sha256": "4afd1e6fdc909485ffd732a706a56c9cb5600f31d18ec472e77ae3ae237d8889",
+  "size": 412608416,
+  "notes": "Aquarius 3v3 fixes. Ledges that were too high or too low are at the right height again, and the Pirates' Room railings can be climbed over from a hang and escaped over. The ladder by the machine box can be climbed from the floor and ends level with the walkway. The ceiling grids walk smoothly (still shoot-through), and the drop hole in the grid still lets you fall through. The window frame lets spies climb in and jump out. An invisible wall on the seaside terrace stops players falling or jumping into the water. Everything from x74 stays. Everyone in a match needs x75.",
+  "released": "2026-10-30T02:39:32Z",
   "addons": [
     {
       "code": "NETGRC",
