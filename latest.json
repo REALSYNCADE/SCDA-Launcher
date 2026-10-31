@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.31-x78",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.31-x78/scda-ce-exp-2026.10.31-x78.scdaupd",
-  "sha256": "e1d1b39eb705474cc04cf2c3ad2f9ef6c4418d065eb2772f1a5ef45725c271f5",
-  "size": 413165080,
-  "notes": "Small gameplay update. Everything from x77 stays. Everyone in a match needs x78.",
-  "released": "2026-10-31T03:05:06Z",
+  "version": "2026.10.31-x79",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.31-x79/scda-ce-exp-2026.10.31-x79.scdaupd",
+  "sha256": "48af4e72d336caa87dfc04da185c023dc6241194c5b3a56e06f2a88f0fbd24a2",
+  "size": 413193000,
+  "notes": "Polar Base 3v3: the lamps are now real Double Agent lamps - shoot, hack or sticky-shock them and their area goes dark, with small emergency lights and exit signs staying on. The base is darker overall with round light pools and shadows, the lampposts and blue rods light the ground properly, the lamp glows no longer show as black or square cards, the hut stoves glow on their own and some containers have a small floor light. Everything from x78 stays. Everyone in a match needs x79.",
+  "released": "2026-10-31T04:55:10Z",
   "addons": [
     {
       "code": "NETGRC",
