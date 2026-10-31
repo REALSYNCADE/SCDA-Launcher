@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.30-x77",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.30-x77/scda-ce-exp-2026.10.30-x77.scdaupd",
-  "sha256": "44a03228fb05fbf370f1e27f9c6a6470eecddf43a3e75127cb7ea79b5356d786",
-  "size": 413166799,
-  "notes": "Prison 3v3: window ledges run the full width of the windows, the wall-top corner is filled, the seven drainpipes can be climbed up to the gutter and the roof, and the low barricades can be vaulted from the sidewalk side. Orphanage 3v3: the basement vents are climbed the same way, now without the reshaped window sills. Steel Squat 3v3: the night sky is back, the red and green terminals have new positions, and spies can climb in and out of the windows again. Polar Base 3v3: spies can climb through and escape-leap through the container windows and the (now taller) Life Zone hut windows; players no longer get stuck around the drilling tower and its railings can be climbed from a hang; the tower stair is smooth, the pipe by the tower climbs out at the top, the hangar walkway roof has ledges all round, and the blue terminal moved. Factory 3v3: hundreds of new climbing spots - the tunnel arches, tanks, transformers, hanging lamps, machine wheels, cabins and catwalks can be climbed, catwalk and walkway railings can be vaulted and climbed over from a hang, cabin windows can be climbed through, and the big machine-room windows are solid. Museum 3v3: the ladder in the Monolith hall can be walked onto and climbed out at the top, the railings work, and the counter window, the display boards, the Monolith wall tops and the Exhibition corridor panel can be grabbed and climbed. Prison, Orphanage, Steel Squat, Polar Base, Factory and Museum have their own minimap and strategic map, and on every 3v3 map the round-start camera shows each team's drone. Blown vents, pipes, fences and blast walls no longer leave invisible walls for players who are not hosting, and steam-vent explosions no longer smash nearby windows and paper walls. Everything from x76 stays. Everyone in a match needs x77.",
-  "released": "2026-10-30T16:31:48Z",
+  "version": "2026.10.31-x78",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.31-x78/scda-ce-exp-2026.10.31-x78.scdaupd",
+  "sha256": "e1d1b39eb705474cc04cf2c3ad2f9ef6c4418d065eb2772f1a5ef45725c271f5",
+  "size": 413165080,
+  "notes": "Small gameplay update. Everything from x77 stays. Everyone in a match needs x78.",
+  "released": "2026-10-31T03:05:06Z",
   "addons": [
     {
       "code": "NETGRC",
