@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.31-x79",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.31-x79/scda-ce-exp-2026.10.31-x79.scdaupd",
-  "sha256": "48af4e72d336caa87dfc04da185c023dc6241194c5b3a56e06f2a88f0fbd24a2",
-  "size": 413193000,
-  "notes": "Polar Base 3v3: the lamps are now real Double Agent lamps - shoot, hack or sticky-shock them and their area goes dark, with small emergency lights and exit signs staying on. The base is darker overall with round light pools and shadows, the lampposts and blue rods light the ground properly, the lamp glows no longer show as black or square cards, the hut stoves glow on their own and some containers have a small floor light. Everything from x78 stays. Everyone in a match needs x79.",
-  "released": "2026-10-31T04:55:10Z",
+  "version": "2026.10.31-x80",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.31-x80/scda-ce-exp-2026.10.31-x80.scdaupd",
+  "sha256": "65fecd46b0fef892627eb7dc0a99b405b444283fb205ef814d19afd12d739e50",
+  "size": 413192738,
+  "notes": "Polar Base 3v3: mercs can now rail-jump (hook down) from the big hangar walkway balcony on all four sides - walk up to the outer railing and press Interaction. Everything from x79 stays. Everyone in a match needs x80.",
+  "released": "2026-10-31T05:30:36Z",
   "addons": [
     {
       "code": "NETGRC",
