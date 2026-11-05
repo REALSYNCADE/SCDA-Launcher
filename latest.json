@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-10",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-10/scda-ce-2026.10.11-10.scdaupd",
-  "sha256": "74e755ab8a39ec7cd1b41214ad03ba8df1d60726e2b5c233378cf003889ada5c",
-  "size": 177766953,
-  "notes": "Launcher 3.27: PLAY repairs changed or extra game files by itself and starts the game, without asking first (a copy of everything it replaces is still kept). A plugin's previous-run log (such as HitchCatch.prev.log) no longer stops the game from starting.",
-  "released": "2026-10-29T01:27:32Z",
+  "version": "2026.10.11-11",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-11/scda-ce-2026.10.11-11.scdaupd",
+  "sha256": "17c5180f69957551eaecc7fd1c77539d8661bc7221d94d00b44ba4fc957df327",
+  "size": 177766877,
+  "notes": "Launcher 3.28: Settings > Browse finds your game from any folder you pick in or around it (the game folder, System, or the folder the game sits in) and says which folder it chose.",
+  "released": "2026-11-05T21:42:05Z",
   "addons": [
     {
       "code": "KIN01",
