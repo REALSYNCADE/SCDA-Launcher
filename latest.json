@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.07-x82",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.07-x82/scda-ce-exp-2026.11.07-x82.scdaupd",
-  "sha256": "89bbb336624e0fce4ab4406cee988995ae6f4a2754b2e994f23082c3620e1eb7",
-  "size": 413228092,
-  "notes": "Aquarius 3v3: new lighting - the lamps are real Double Agent lamps that go dark when shot, hacked or sticky-shocked, with round light pools, shadows, emergency lights and exit signs. The vent grilles open when you shoot or grenade them, or when the objective in their room is done; the grille switches are gone. Mercs can rail-jump (hook down) from the pirate ship deck railings and more of the map's railings. Everything from x81 stays. Everyone in a match needs x82.",
-  "released": "2026-11-07T16:57:58Z",
+  "version": "2026.11.07-x83",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.07-x83/scda-ce-exp-2026.11.07-x83.scdaupd",
+  "sha256": "640305391ef4179b8632f48d1c905d07ead0d1cad102664f9a1e987c07fde139",
+  "size": 413447603,
+  "notes": "Club House 3v3 reworked for Double Agent: more ledges, pipes and ladders to climb; stairs and glass doors you no longer snag on; paper walls and ceiling tiles stay solid until shot or grenaded (vent blasts no longer break them); mercs can rail-jump (hook down) from the balconies; brighter lighting with real Double Agent lamp behaviour (shoot or hack them dark) while the lamps keep their Chaos Theory look; lifts ride slower with thicker floors so you no longer drop through; merc-only vent blockers. Everything from x82 stays. Everyone in a match needs x83.",
+  "released": "2026-11-07T18:05:31Z",
   "addons": [
     {
       "code": "NETGRC",
