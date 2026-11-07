@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.07-x83",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.07-x83/scda-ce-exp-2026.11.07-x83.scdaupd",
-  "sha256": "640305391ef4179b8632f48d1c905d07ead0d1cad102664f9a1e987c07fde139",
-  "size": 413447603,
-  "notes": "Club House 3v3 reworked for Double Agent: more ledges, pipes and ladders to climb; stairs and glass doors you no longer snag on; paper walls and ceiling tiles stay solid until shot or grenaded (vent blasts no longer break them); mercs can rail-jump (hook down) from the balconies; brighter lighting with real Double Agent lamp behaviour (shoot or hack them dark) while the lamps keep their Chaos Theory look; lifts ride slower with thicker floors so you no longer drop through; merc-only vent blockers. Everything from x82 stays. Everyone in a match needs x83.",
-  "released": "2026-11-07T18:05:31Z",
+  "version": "2026.11.07-x84",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.07-x84/scda-ce-exp-2026.11.07-x84.scdaupd",
+  "sha256": "4ed2bfef85a852ecdd2bf8bb96421111e30d92813e9ffad7767d5a94e5faed9a",
+  "size": 483496165,
+  "notes": "Eight new spy skins under Skins, spy rows 12-19: five Sam Fisher outfits from the Double Agent story (HQ, Shanghai, drysuit, snow drysuit, Cozumel), Enrica Villablanca, Irving Lambert and the Chaos Theory spy, all with the stock spy gloves. Everything from x83 stays. Everyone in a match needs x84 to see the new skins.",
+  "released": "2026-11-07T18:20:20Z",
   "addons": [
     {
       "code": "NETGRC",
@@ -125,6 +125,11 @@
     {
       "code": "COOPT",
       "title": "Coop moves on the Chaos Theory 3v3 maps (spies)",
+      "kind": "files"
+    },
+    {
+      "code": "SPSKN",
+      "title": "Eight new spy skins: Sam Fisher outfits, Enrica, Lambert, Chaos Theory spy",
       "kind": "files"
     }
   ],
