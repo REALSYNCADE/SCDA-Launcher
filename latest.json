@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.07-x84",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.07-x84/scda-ce-exp-2026.11.07-x84.scdaupd",
-  "sha256": "4ed2bfef85a852ecdd2bf8bb96421111e30d92813e9ffad7767d5a94e5faed9a",
-  "size": 483496165,
-  "notes": "Eight new spy skins under Skins, spy rows 12-19: five Sam Fisher outfits from the Double Agent story (HQ, Shanghai, drysuit, snow drysuit, Cozumel), Enrica Villablanca, Irving Lambert and the Chaos Theory spy, all with the stock spy gloves. Everything from x83 stays. Everyone in a match needs x84 to see the new skins.",
-  "released": "2026-11-07T18:20:20Z",
+  "version": "2026.11.10-x85",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.10-x85/scda-ce-exp-2026.11.10-x85.scdaupd",
+  "sha256": "e60c7d9a2de46b6f471a5a6de9ac24a6c27f7fab77433a5309e084ae6aa964de",
+  "size": 500027452,
+  "notes": "Online matches run up to 144 fps; 1000 Hz mice keep the classic feel at any frame rate (if you used a fast mouse, you may want to lower your sensitivity in Controls > Sensitivity); merc sniper scope while jumping; team ping on mouse 4; laser alarm panels and Chaos Theory sounds; Aquarius minimap marker removed; crash fixes for the Kinshasa side swap, Aquarius loading and Museum/Aquarius hosts; OPSAT visible on the eight new spy skins; the lobby row is now Ranked: On / Off.",
+  "released": "2026-11-10T17:54:12Z",
   "addons": [
     {
       "code": "NETGRC",
@@ -130,6 +130,26 @@
     {
       "code": "SPSKN",
       "title": "Eight new spy skins: Sam Fisher outfits, Enrica, Lambert, Chaos Theory spy",
+      "kind": "files"
+    },
+    {
+      "code": "PING",
+      "title": "Team ping",
+      "kind": "files"
+    },
+    {
+      "code": "CTCUE",
+      "title": "3v3 maps: alarm panel and Chaos Theory sounds",
+      "kind": "files"
+    },
+    {
+      "code": "ENGGD",
+      "title": "Crash guards (round end, map load)",
+      "kind": "files"
+    },
+    {
+      "code": "EXEFT",
+      "title": "Sensitivity page, finer sliders, 144 fps, any mouse polling rate, automatic key bindings",
       "kind": "files"
     }
   ],
