@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.10-x85",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.10-x85/scda-ce-exp-2026.11.10-x85.scdaupd",
-  "sha256": "e60c7d9a2de46b6f471a5a6de9ac24a6c27f7fab77433a5309e084ae6aa964de",
-  "size": 500027452,
-  "notes": "Online matches run up to 144 fps; 1000 Hz mice keep the classic feel at any frame rate (if you used a fast mouse, you may want to lower your sensitivity in Controls > Sensitivity); merc sniper scope while jumping; team ping on mouse 4; laser alarm panels and Chaos Theory sounds; Aquarius minimap marker removed; crash fixes for the Kinshasa side swap, Aquarius loading and Museum/Aquarius hosts; OPSAT visible on the eight new spy skins; the lobby row is now Ranked: On / Off.",
-  "released": "2026-11-10T17:54:12Z",
+  "version": "2026.11.11-x85",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.11-x85/scda-ce-exp-2026.11.11-x85.scdaupd",
+  "sha256": "bffbbe65daa598ac1d537deef51a72c235685613219be0cffdc9d5f6d524d913",
+  "size": 500027738,
+  "notes": "Changing direction while running (adding or dropping a strafe key, a fast turn) no longer brakes the character harder at high frame rates: movement turns as it did at 60 fps at any frame rate.",
+  "released": "2026-11-10T23:55:50Z",
   "addons": [
     {
       "code": "NETGRC",
