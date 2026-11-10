@@ -1,22 +1,22 @@
 {
   "name": "SCDA (heartbeat)",
   "game": "heartbeat",
-  "version": "1.0",
-  "url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/heartbeat-1.0/scda-heartbeat-1.0.zip",
-  "image": "scda-heartbeat-1.0.zip",
-  "size": 1238919875,
-  "sha256": "48f77a5e2564af6a3b548f6eb720ed91ec44fa161179083f1b6a89301bf88ff0",
-  "files": 1611,
-  "unpacked": 2215676277,
+  "version": "1.1",
+  "url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/heartbeat-1.1/scda-heartbeat-1.1.zip",
+  "image": "scda-heartbeat-1.1.zip",
+  "size": 1279755308,
+  "sha256": "e14a0a4468d14cac15c0f10ba58804c310aacf32c4971040bfe7aebb8602efc0",
+  "files": 1639,
+  "unpacked": 2348940650,
   "exe_sha256": "3dc55a59478a8eacd74411225b30127efa060ed17b667fd7201d38b56cc3056a",
   "markers": [
     "System/SCDA_Online.exe",
     "Packages/MapPaths.ini",
     "Packages/01/MapsPC"
   ],
-  "notes": "Splinter Cell: Double Agent -- the vanilla heartbeat game, every file of the operator's SCDA-Online archive, unchanged. A separate game in its own folder; the launcher never patches it.",
-  "files_manifest": "scda-heartbeat-1.0.files.json",
-  "files_manifest_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/heartbeat-1.0/scda-heartbeat-1.0.files.json",
-  "files_manifest_sha256": "957a254b329f459bcc777b6dd31156ee43dfc6451f02a24496f05a8c86fd58d7",
-  "files_manifest_size": 284068
+  "notes": "Splinter Cell: Double Agent -- the heartbeat game 1.1: every file of the operator's SCDA-Online archive unchanged except the lobby page and the menu texts (a host-only 'Ranked: On / Off' row) and the map list, plus RankedStyle (two rounds with a side swap), TravelGate, NetGrace, NoSelfKick and EngineGuard in System, and Kinshasa and Secret Base as the Community Edition main channel ships them. A separate game in its own folder; the launcher never patches it.",
+  "files_manifest": "scda-heartbeat-1.1.files.json",
+  "files_manifest_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/heartbeat-1.1/scda-heartbeat-1.1.files.json",
+  "files_manifest_sha256": "8ad84423a37814003233716efaa30024462124c12a9cf4745fd85aa71366951f",
+  "files_manifest_size": 290029
 }
