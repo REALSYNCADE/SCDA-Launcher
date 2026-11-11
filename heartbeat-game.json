@@ -1,22 +1,22 @@
 {
   "name": "SCDA (heartbeat)",
   "game": "heartbeat",
-  "version": "1.1",
-  "url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/heartbeat-1.1/scda-heartbeat-1.1.zip",
-  "image": "scda-heartbeat-1.1.zip",
-  "size": 1279755308,
-  "sha256": "e14a0a4468d14cac15c0f10ba58804c310aacf32c4971040bfe7aebb8602efc0",
+  "version": "1.2",
+  "url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/heartbeat-1.2/scda-heartbeat-1.2.zip",
+  "image": "scda-heartbeat-1.2.zip",
+  "size": 1281108069,
+  "sha256": "18a1de84032f6f2dbc990a09df109c3354ddbfc6042c910627aaff6ce9c2585b",
   "files": 1639,
-  "unpacked": 2348940650,
+  "unpacked": 2355382506,
   "exe_sha256": "3dc55a59478a8eacd74411225b30127efa060ed17b667fd7201d38b56cc3056a",
   "markers": [
     "System/SCDA_Online.exe",
     "Packages/MapPaths.ini",
     "Packages/01/MapsPC"
   ],
-  "notes": "Splinter Cell: Double Agent -- the heartbeat game 1.1: every file of the operator's SCDA-Online archive unchanged except the lobby page and the menu texts (a host-only 'Ranked: On / Off' row) and the map list, plus RankedStyle (two rounds with a side swap), TravelGate, NetGrace, NoSelfKick and EngineGuard in System, and Kinshasa and Secret Base as the Community Edition main channel ships them. A separate game in its own folder; the launcher never patches it.",
-  "files_manifest": "scda-heartbeat-1.1.files.json",
-  "files_manifest_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/heartbeat-1.1/scda-heartbeat-1.1.files.json",
-  "files_manifest_sha256": "8ad84423a37814003233716efaa30024462124c12a9cf4745fd85aa71366951f",
+  "notes": "Splinter Cell: Double Agent -- the heartbeat game 1.2: every file of the operator's SCDA-Online archive unchanged except the lobby page and the menu texts (a host-only 'Ranked: On / Off' row), the map list and the spy meshes (the female spy's HOLSTER bone, so her grenades thrown in the air no longer fall at the map's origin), plus RankedStyle (two rounds with a side swap), TravelGate, NetGrace, NoSelfKick and EngineGuard in System, and Kinshasa and Secret Base as the Community Edition main channel ships them. A separate game in its own folder; the launcher never patches it.",
+  "files_manifest": "scda-heartbeat-1.2.files.json",
+  "files_manifest_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/heartbeat-1.2/scda-heartbeat-1.2.files.json",
+  "files_manifest_sha256": "67eb9c3749edec065a16a624cadc0e2767de30c840f4c07ffcc15d1bf3f4459e",
   "files_manifest_size": 290029
 }
