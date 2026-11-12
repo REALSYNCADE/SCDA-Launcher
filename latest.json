@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.12-x85",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.12-x85/scda-ce-exp-2026.11.12-x85.scdaupd",
-  "sha256": "37a92f80476c29aaa184c12528376eb25bf18ceab42829bf00d3ad4df4680708",
-  "size": 500029188,
-  "notes": "Intro videos are now optional: the new row Intro Videos: Off / On under LAN > Home (Off, the default, starts the game straight at the main menu). Includes the movement fix of 2026.11.11-x85.",
-  "released": "2026-11-11T01:44:06Z",
+  "version": "2026.11.12-x86",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.12-x86/scda-ce-exp-2026.11.12-x86.scdaupd",
+  "sha256": "510b0162fb00d417786adfb61c852316559bf334cf4818558aa24d1029e7d4b6",
+  "size": 500035095,
+  "notes": "Controllers plugged in while the game runs now work; sliders in the Sensitivity and Audio menus keep stepping and speed up while Left / Right is held, with the keyboard or a controller.",
+  "released": "2026-11-12T21:44:02Z",
   "addons": [
     {
       "code": "NETGRC",
