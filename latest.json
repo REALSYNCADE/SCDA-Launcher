@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.13-x88",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.13-x88/scda-ce-exp-2026.11.13-x88.scdaupd",
-  "sha256": "d574a6c332afb7a41b3552f1dc589125946d45e8aa592ef5f884eb4816189c1d",
-  "size": 500172062,
-  "notes": "Controller sensitivity (Your Profile > Controls > Sensitivity) now also applies to spies, to the merc sprint and to binoculars and the sniper scope, and it works on older profiles without creating a new one.",
-  "released": "2026-11-13T17:10:32Z",
+  "version": "2026.11.13-x89",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.13-x89/scda-ce-exp-2026.11.13-x89.scdaupd",
+  "sha256": "8636d8b80d85b4182a0422e7dd900b889f6737301fbbf54122f288dce5d81f5a",
+  "size": 500172605,
+  "notes": "New key bindings (merc jump, Push to Talk, Coop Move, Ping) now reach an existing profile when you pick it in the profile list, so you no longer need to create a new profile. A key you already use is never taken away: if a new action arrives without a key, bind it under Your Profile > Controls.",
+  "released": "2026-11-13T17:46:10Z",
   "addons": [
     {
       "code": "NETGRC",
