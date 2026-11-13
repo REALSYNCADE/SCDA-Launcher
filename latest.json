@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.13-x87",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.13-x87/scda-ce-exp-2026.11.13-x87.scdaupd",
-  "sha256": "5f4e8cb146794cb06ba5770fe4e618eb0dbe6d0f6fe01a7d8b9dd85f1ec08103",
-  "size": 500170594,
-  "notes": "Lifts: Orphanage 3v3 lifts ride slower (3.5 s), have a thick floor and can no longer trap a player underneath; Factory 3v3 lift gets its cabin, rides in 5 s and its gates open and close the right way.",
-  "released": "2026-11-13T15:34:26Z",
+  "version": "2026.11.13-x88",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.13-x88/scda-ce-exp-2026.11.13-x88.scdaupd",
+  "sha256": "d574a6c332afb7a41b3552f1dc589125946d45e8aa592ef5f884eb4816189c1d",
+  "size": 500172062,
+  "notes": "Controller sensitivity (Your Profile > Controls > Sensitivity) now also applies to spies, to the merc sprint and to binoculars and the sniper scope, and it works on older profiles without creating a new one.",
+  "released": "2026-11-13T17:10:32Z",
   "addons": [
     {
       "code": "NETGRC",
