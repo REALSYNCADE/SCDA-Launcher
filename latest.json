@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.13-x89",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.13-x89/scda-ce-exp-2026.11.13-x89.scdaupd",
-  "sha256": "8636d8b80d85b4182a0422e7dd900b889f6737301fbbf54122f288dce5d81f5a",
-  "size": 500172605,
-  "notes": "New key bindings (merc jump, Push to Talk, Coop Move, Ping) now reach an existing profile when you pick it in the profile list, so you no longer need to create a new profile. A key you already use is never taken away: if a new action arrives without a key, bind it under Your Profile > Controls.",
-  "released": "2026-11-13T17:46:10Z",
+  "version": "2026.11.20-x90",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.20-x90/scda-ce-exp-2026.11.20-x90.scdaupd",
+  "sha256": "db8843f031b3f10cefe4d4d1a8408878c5437470d8a2bc01e422eb8905bf440e",
+  "size": 500545166,
+  "notes": "Railings on all eight 3v3 maps: spies vault, hang and climb back, mercs rappel, hacks and shots pass the open rails. Plus Museum's own lamps, slower lifts, moved ammo boxes and spawn drones, your own frame limit, the F1 scoreboard and shorter rounds in 25 % / Infinite, and fair merc EMF vision. Every player in a match needs this version.",
+  "released": "2026-11-20T21:00:53Z",
   "addons": [
     {
       "code": "NETGRC",
@@ -149,7 +149,7 @@
     },
     {
       "code": "EXEFT",
-      "title": "Sensitivity page, finer sliders, 144 fps, any mouse polling rate, automatic key bindings",
+      "title": "Sensitivity page, finer sliders, your own frame limit, any mouse polling rate, automatic key bindings",
       "kind": "files"
     }
   ],
