@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.22-x92",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.22-x92/scda-ce-exp-2026.11.22-x92.scdaupd",
-  "sha256": "6d63c59937a352224d192fed310b8d82b240e934135666586c587bb7de261ce0",
-  "size": 521209156,
-  "notes": "Fixes players staying in their ragdoll after a death or knock-out: the host network rate cap from x91 is off again. Every player in a match needs this version.",
-  "released": "2026-11-22T00:06:51Z",
+  "version": "2026.11.22-x93",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.22-x93/scda-ce-exp-2026.11.22-x93.scdaupd",
+  "sha256": "fcc740e4368e41fd835632ede42f7d64042fc83ee4b3de6160ea88054f6fc3e1",
+  "size": 618292229,
+  "notes": "Three new merc skins in four colours each: SWAT Officer, Riot Warden (smoked-glass face shield) and Bodyguard. Enrica and the Chaos Theory spy now have the same build as the stock spies. Every player in a match needs this version.",
+  "released": "2026-11-22T03:58:53Z",
   "addons": [
     {
       "code": "NETGRC",
@@ -129,7 +129,7 @@
     },
     {
       "code": "SPSKN",
-      "title": "New skins: Sam Fisher outfits, Enrica, Lambert, Chaos Theory spy, Argus merc",
+      "title": "New skins: Sam Fisher outfits, Enrica, Lambert, Chaos Theory spy, Argus, SWAT Officer, Riot Warden and Bodyguard mercs",
       "kind": "files"
     },
     {
