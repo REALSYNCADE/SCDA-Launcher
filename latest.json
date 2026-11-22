@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.21-x91",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.21-x91/scda-ce-exp-2026.11.21-x91.scdaupd",
-  "sha256": "78fce0bf18560d3c015a3fc7ce8e2c591c00a96489f2273ac4a6d055de6b5866",
-  "size": 521209355,
-  "notes": "Club House: roof glass stops bullets, blown pipes and broken fences are gone for everyone, the lifts are lit, a terminal is back in the zen garden. New merc skin Argus PMC in four colours. Hosts with a high frame rate send steady network updates (less stutter in full lobbies), plus two crash fixes. Every player in a match needs this version.",
-  "released": "2026-11-21T19:24:22Z",
+  "version": "2026.11.22-x92",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.22-x92/scda-ce-exp-2026.11.22-x92.scdaupd",
+  "sha256": "6d63c59937a352224d192fed310b8d82b240e934135666586c587bb7de261ce0",
+  "size": 521209156,
+  "notes": "Fixes players staying in their ragdoll after a death or knock-out: the host network rate cap from x91 is off again. Every player in a match needs this version.",
+  "released": "2026-11-22T00:06:51Z",
   "addons": [
     {
       "code": "NETGRC",
