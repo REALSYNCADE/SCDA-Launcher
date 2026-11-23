@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.22-x93",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.22-x93/scda-ce-exp-2026.11.22-x93.scdaupd",
-  "sha256": "fcc740e4368e41fd835632ede42f7d64042fc83ee4b3de6160ea88054f6fc3e1",
-  "size": 618292229,
-  "notes": "Three new merc skins in four colours each: SWAT Officer, Riot Warden (smoked-glass face shield) and Bodyguard. Enrica and the Chaos Theory spy now have the same build as the stock spies. Every player in a match needs this version.",
-  "released": "2026-11-22T03:58:53Z",
+  "version": "2026.11.23-x94",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.23-x94/scda-ce-exp-2026.11.23-x94.scdaupd",
+  "sha256": "0aae21dc77f128139a9aa4b40017a481b72179908b4272f26a074c858fd21970",
+  "size": 618438670,
+  "notes": "Free Cam for videos: the host turns on \"Free Cam\" in the lobby, then F9 flies a free camera (WASD, Space up, C down, Shift faster). Map lists end with Random Map: the host's game picks one of the maps and everyone sees the pick. Cleaner skin selection: short names, Spy Male and Upsilon Force with Normal, Hardcore and Pro, Spy Female with Normal, Hardcore, Pro, Lara, Viper and Enrica, Sam Fisher A to E, merc colours Urban / Night / Original / Desert. A merc's scoped headshot kill of a spy shows a crimson headshot icon in the chat and plays a sound for the killer and the victim. Team pings now play a sound for your teammates from the direction of the ping, with its own Ping Volume slider under Options > Audio. Hosts send network updates on a fixed budget at any frame rate and hold the network speed up while players are connected, to fix the lag of high-frame-rate hosts (the host can switch it off for the match with the lobby row \"Host Net Fix: On / Off\"; if players stutter, send your log bundle from the launcher). Controllers: Controls > Sensitivity has a new Controller Style switch; Legacy keeps today's stick feel, Modern unlocks deadzone, outer deadzone, response curve, slow zone and smoothing settings (merc aiming). Lifts no longer trap a player inside the platform or bounce up and down endlessly (Club House, Orphanage, Factory). Orphanage: the dormitory vent duct can now be climbed into from both ends, and the merc drone, ammo box and vent covers there were fixed. Crash fixes: closing the game window no longer crashes it, a host restarting the map after a long session, the empty sixth group of the Challenge menu (removed), a rare sound crash in long sessions, and the game can now use up to 4 GB of memory on 64-bit Windows (fewer out-of-memory crashes). Every player in a match needs this version.",
+  "released": "2026-11-23T21:58:51Z",
   "addons": [
     {
       "code": "NETGRC",
