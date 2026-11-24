@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.11.23-x94",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.23-x94/scda-ce-exp-2026.11.23-x94.scdaupd",
-  "sha256": "0aae21dc77f128139a9aa4b40017a481b72179908b4272f26a074c858fd21970",
-  "size": 618438670,
-  "notes": "Free Cam for videos: the host turns on \"Free Cam\" in the lobby, then F9 flies a free camera (WASD, Space up, C down, Shift faster). Map lists end with Random Map: the host's game picks one of the maps and everyone sees the pick. Cleaner skin selection: short names, Spy Male and Upsilon Force with Normal, Hardcore and Pro, Spy Female with Normal, Hardcore, Pro, Lara, Viper and Enrica, Sam Fisher A to E, merc colours Urban / Night / Original / Desert. A merc's scoped headshot kill of a spy shows a crimson headshot icon in the chat and plays a sound for the killer and the victim. Team pings now play a sound for your teammates from the direction of the ping, with its own Ping Volume slider under Options > Audio. Hosts send network updates on a fixed budget at any frame rate and hold the network speed up while players are connected, to fix the lag of high-frame-rate hosts (the host can switch it off for the match with the lobby row \"Host Net Fix: On / Off\"; if players stutter, send your log bundle from the launcher). Controllers: Controls > Sensitivity has a new Controller Style switch; Legacy keeps today's stick feel, Modern unlocks deadzone, outer deadzone, response curve, slow zone and smoothing settings (merc aiming). Lifts no longer trap a player inside the platform or bounce up and down endlessly (Club House, Orphanage, Factory). Orphanage: the dormitory vent duct can now be climbed into from both ends, and the merc drone, ammo box and vent covers there were fixed. Crash fixes: closing the game window no longer crashes it, a host restarting the map after a long session, the empty sixth group of the Challenge menu (removed), a rare sound crash in long sessions, and the game can now use up to 4 GB of memory on 64-bit Windows (fewer out-of-memory crashes). Every player in a match needs this version.",
-  "released": "2026-11-23T21:58:51Z",
+  "version": "2026.11.24-x95",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.11.24-x95/scda-ce-exp-2026.11.24-x95.scdaupd",
+  "sha256": "e7c8e6fcc18f843be1485bd2503d2d64864c6b955c3725ec8979aa23fe3d5970",
+  "size": 618478367,
+  "notes": "Hotfix on x94. Headshots now play a proper headshot sound for the killer and the victim (x94 played the \"file returned\" announcement). Sam Fisher skins carry their real names: HQ, Shanghai, Drysuit, Snow Drysuit and Cozumel. Browsing the skin menus no longer changes your skin: opening a skin family or a merc colour page only opens it, you pick the version inside (since x91 just opening a page could switch you to its first version; check your skin once after updating). The killcam now shows the killer's own merc skin instead of the old level-3 merc. Every player in a match needs this version.",
+  "released": "2026-11-24T07:36:51Z",
   "addons": [
     {
       "code": "NETGRC",
